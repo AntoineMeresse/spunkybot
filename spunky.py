@@ -43,6 +43,7 @@ from lib.pyquake3 import PyQuake3
 
 from src.commands import Commands
 from src.reasons import Reasons
+import wget
 
 # Get an instance of a logger
 logger = logging.getLogger('spunkybot')
@@ -462,7 +463,7 @@ class LogParser(object):
                         self.game.rcon_say("^1ALERT: ^2%s ^7auto-kick from warnings if not cleared" % player_name)
 
                 # check for player with high ping
-                self.check_player_ping()
+                #self.check_player_ping()
 
         except Exception as err:
             logger.error(err, exc_info=True)
@@ -1563,8 +1564,14 @@ class LogParser(object):
                     self.game.rcon_tell(sar['player_num'], "^7Command is disabled for this game mode")
 
             # spec - move yourself to spectator
-            elif sar['command'] in ('!spec', '!sp') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['spec']['level']:
+            elif sar['command'] in ('!spec') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['spec']['level']:
+                print(self.game.players[sar['player_num']].get_admin_role())
+                print(COMMANDS['roll']['level'])
+                print(COMMANDS['download']['level'])
                 self.game.rcon_forceteam(sar['player_num'], 'spectator')
+
+            elif sar['command'] in ('!play') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['play']['level']:
+                self.game.rcon_forceteam(sar['player_num'], 'red')
 
             # warninfo - display how many warnings the player has
             elif (sar['command'] == '!warninfo' or sar['command'] == '!wi') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['warninfo']['level']:
@@ -2661,6 +2668,41 @@ class LogParser(object):
                         self.game.players[sar['player_num']].update_db_admin_role(role=100)
                     self.iamgod = False
                     self.game.rcon_tell(sar['player_num'], "^7You are registered as ^6Head Admin")
+## Perso
+            
+            elif sar['command'] == '!roll' and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['roll']['level']:
+                map_list = self.game.get_all_maps()
+                nextmap = random.choice(map_list)
+                self.game.send_rcon('g_nextmap %s' % nextmap)
+                self.game.next_mapname = nextmap
+                self.game.rcon_tell(sar['player_num'], "^7Next Map set to: ^3%s" % nextmap)
+
+            elif sar['command'] == '!download' and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['download']['level']:
+                map_list = self.game.get_all_maps()
+                reload = False
+                if line.split(sar['command'])[1]:
+                    tmp = line.split(sar['command'])[1].strip()
+                    maps = tmp.split(" ")
+                    for map in maps:
+                        map_name = map.replace(".pk3","")
+                        map_already_exist = map_name not in map_list
+                        print(map_already_exist)
+                        if map_already_exist:
+                            try:
+                                full_url = "http://urt.li/q3ut4/"+map
+                                print(full_url)
+                                self.game.rcon_tell(sar['player_num'], "^7Downloading map : ^3%s" % map)
+                                wget.download(full_url, out= CONFIG.get('server', 'download_folder'))
+                                map_list.append(map)
+                                self.game.rcon_tell(sar['player_num'], "^7Downloading map : ^3%s (Finished)" % map)
+                                reload = True
+                            except:
+                                self.game.rcon_tell(sar['player_num'], "^7Can't download the map: ^3%s in urt.li" % map)
+                                continue
+                        else:
+                            self.game.rcon_tell(sar['player_num'], "^Map ^3%s is already on server !" % map)
+                if (reload):
+                    self.game.send_rcon('reload')
 
 ## unknown command
             elif sar['command'].startswith('!') and len(sar['command']) > 1 and self.game.players[sar['player_num']].get_admin_role() > 20:
@@ -2674,6 +2716,7 @@ class LogParser(object):
                 victim = self.game.players[sar['player_num']]
                 victim.add_warning('bad language')
                 self.kick_high_warns(victim, 'bad language', 'Behave, stop using bad language')
+
 
     def kick_high_warns(self, player, reason, text):
         if player.get_warning() > 3:

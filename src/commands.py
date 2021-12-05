@@ -15,7 +15,6 @@ class Commands:
         'nextmap': {'desc': 'display the next map in rotation', 'syntax': '^7Usage: ^2!nextmap', 'level': 20},
         'poke': {'desc': 'notify a player that he needs to move', 'syntax': '^7Usage: ^2!poke ^7<name>', 'level': 20},
         'seen': {'desc': 'display when a player was last seen', 'syntax': '^7Usage: ^2!seen ^7<name>', 'level': 20},
-        'spec': {'desc': 'move yourself to spectator', 'syntax': '^7Usage: ^2!spec', 'level': 20, 'short': 'sp'},
     
         # admin commands, level 40
         'admins': {'desc': 'list all the online admins', 'syntax': '^7Usage: ^2!admins', 'level': 40},
@@ -41,7 +40,7 @@ class Commands:
         'lastadmin': {'desc': 'display the last disconnected admin', 'syntax': '^7Usage: ^2!lastadmin', 'level': 80},
         'lastbans': {'desc': 'list the last 4 bans', 'syntax': '^7Usage: ^2!lastbans', 'level': 80, 'short': 'bans'},
         'lookup': {'desc': 'search for a player in the database', 'syntax': '^7Usage: ^2!lookup ^7<name>', 'level': 80, 'short': 'l'},
-        'map': {'desc': 'load given map', 'syntax': '^7Usage: ^2!map ^7<ut4_name>', 'level': 80},
+        'map': {'desc': 'load given map', 'syntax': '^7Usage: ^2!map ^7<ut4_name>', 'level': 60},
         'mapcycle': {'desc': 'list the map rotation', 'syntax': '^7Usage: ^2!mapcycle', 'level': 80},
         'maps': {'desc': 'display all available maps', 'syntax': '^7Usage: ^2!maps', 'level': 80},
         'maprestart': {'desc': 'restart the map', 'syntax': '^7Usage: ^2!maprestart', 'level': 80, 'short': 'restart'},
@@ -57,7 +56,13 @@ class Commands:
         'jump': {'desc': 'change gametype to Jump', 'syntax': '^7Usage: ^2!jump', 'level': 90},
         'ungroup': {'desc': 'remove admin level from a player', 'syntax': '^7Usage: ^2!ungroup ^7<name>', 'level': 90},
         'password': {'desc': 'set private server password', 'syntax': '^7Usage: ^2!password ^7[<password>]', 'level': 90},
-        'reload': {'desc': 'reload map', 'syntax': '^7Usage: ^2!reload', 'level': 90}
+        'reload': {'desc': 'reload map', 'syntax': '^7Usage: ^2!reload', 'level': 90},
+
+        # Perso
+        'spec': {'desc': 'move yourself to spectator', 'syntax': '^7Usage: ^2!spec', 'level': 0},
+        'play': {'desc': 'move yourself to play', 'syntax': '^7Usage: ^2!play', 'level': 0},
+        'roll': {'desc': 'randomly pick a new nextmap', 'syntax': '^7Usage: ^2!roll', 'level': 0},
+        'download': {'desc': 'download a map from urt.li', 'syntax': '^7Usage: ^2!download', 'level': 80},
     }
 
     commands_list_full = {

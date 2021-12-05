@@ -2,6 +2,66 @@ class Commands:
     
     commands_list = {
         'help': {'desc': 'display all available commands', 'syntax': '^7Usage: ^2!help', 'level': 0, 'short': 'h'},
+        'register': {'desc': 'register yourself as a basic user', 'syntax': '^7Usage: ^2!register', 'level': 0},
+        'teams': {'desc': 'balance teams', 'syntax': '^7Usage: ^2!teams', 'level': 0},
+        'time': {'desc': 'display the current server time', 'syntax': '^7Usage: ^2!time', 'level': 0},
+        
+        # moderator commands, level 20
+        'lastmaps': {'desc': 'list the last played maps', 'syntax': '^7Usage: ^2!lastmaps', 'level': 20},
+        'lastvote': {'desc': 'display information about the last called vote', 'syntax': '^7Usage: ^2!lastvote', 'level': 20},
+        'list': {'desc': 'list all connected players', 'syntax': '^7Usage: ^2!list', 'level': 20},
+        'locate': {'desc': 'display geolocation info of a player', 'syntax': '^7Usage: ^2!locate ^7<name>', 'level': 20, 'short': 'lc'},
+        'mute': {'desc': 'mute or un-mute a player', 'syntax': '^7Usage: ^2!mute ^7<name> [<duration>]', 'level': 20},
+        'nextmap': {'desc': 'display the next map in rotation', 'syntax': '^7Usage: ^2!nextmap', 'level': 20},
+        'poke': {'desc': 'notify a player that he needs to move', 'syntax': '^7Usage: ^2!poke ^7<name>', 'level': 20},
+        'seen': {'desc': 'display when a player was last seen', 'syntax': '^7Usage: ^2!seen ^7<name>', 'level': 20},
+        'spec': {'desc': 'move yourself to spectator', 'syntax': '^7Usage: ^2!spec', 'level': 20, 'short': 'sp'},
+    
+        # admin commands, level 40
+        'admins': {'desc': 'list all the online admins', 'syntax': '^7Usage: ^2!admins', 'level': 40},
+        'afk': {'desc': 'force a player to spec, because he is away from keyboard', 'syntax': '^7Usage: ^2!afk ^7<name>', 'level': 40},
+        'aliases': {'desc': 'list the aliases of a player', 'syntax': '^7Usage: ^2!aliases ^7<name>', 'level': 40, 'short': 'alias'},
+        'bigtext': {'desc': 'display big message on screen', 'syntax': '^7Usage: ^2!bigtext ^7<text>', 'level': 40},
+        'force': {'desc': 'force a player to the given team', 'syntax': '^7Usage: ^2!force ^7<name> <blue/red/spec> [<lock>]', 'level': 40},
+        'kick': {'desc': 'kick a player', 'syntax': '^7Usage: ^2!kick ^7<name> <reason>', 'level': 40, 'short': 'k'},
+        'nuke': {'desc': 'nuke a player', 'syntax': '^7Usage: ^2!nuke ^7<name>', 'level': 40},
+        'say': {'desc': 'say a message to all players', 'syntax': '^7Usage: ^2!say ^7<text>', 'level': 40, 'short': '!!'},
+        'tell': {'desc': 'tell a message to a specific player', 'syntax': '^7Usage: ^2!tell ^7<name> <text>', 'level': 40},
+        # fulladmin commands, level 60
+        'ban': {'desc': 'ban a player for several days', 'syntax': '^7Usage: ^2!ban ^7<name> <reason>', 'level': 60, 'short': 'b'},
+        'baninfo': {'desc': 'display active bans of a player', 'syntax': '^7Usage: ^2!baninfo ^7<name>', 'level': 60, 'short': 'bi'},
+        'ci': {'desc': 'kick player with connection interrupt', 'syntax': '^7Usage: ^2!ci ^7<name>', 'level': 60},
+        'scream': {'desc': 'scream a message in different colors to all players', 'syntax': '^7Usage: ^2!scream ^7<text>', 'level': 60},
+        'slap': {'desc': 'slap a player (a number of times)', 'syntax': '^7Usage: ^2!slap ^7<name> [<amount>]', 'level': 60},
+        'status': {'desc': 'report the status of the bot', 'syntax': '^7Usage: ^2!status', 'level': 60},
+        'veto': {'desc': 'stop voting process', 'syntax': '^7Usage: ^2!veto', 'level': 60},
+        # senioradmin commands, level 80
+        'cyclemap': {'desc': 'cycle to the next map', 'syntax': '^7Usage: ^2!cyclemap', 'level': 80},
+        'kill': {'desc': 'kill a player', 'syntax': '^7Usage: ^2!kill ^7<name>', 'level': 80},
+        'lastadmin': {'desc': 'display the last disconnected admin', 'syntax': '^7Usage: ^2!lastadmin', 'level': 80},
+        'lastbans': {'desc': 'list the last 4 bans', 'syntax': '^7Usage: ^2!lastbans', 'level': 80, 'short': 'bans'},
+        'lookup': {'desc': 'search for a player in the database', 'syntax': '^7Usage: ^2!lookup ^7<name>', 'level': 80, 'short': 'l'},
+        'map': {'desc': 'load given map', 'syntax': '^7Usage: ^2!map ^7<ut4_name>', 'level': 80},
+        'mapcycle': {'desc': 'list the map rotation', 'syntax': '^7Usage: ^2!mapcycle', 'level': 80},
+        'maps': {'desc': 'display all available maps', 'syntax': '^7Usage: ^2!maps', 'level': 80},
+        'maprestart': {'desc': 'restart the map', 'syntax': '^7Usage: ^2!maprestart', 'level': 80, 'short': 'restart'},
+        'moon': {'desc': 'activate low gravity mode (Moon mode)', 'syntax': '^7Usage: ^2!moon ^7<on/off>', 'level': 80, 'short': 'lowgravity'},
+        'permban': {'desc': 'ban a player permanent', 'syntax': '^7Usage: ^2!permban ^7<name> <reason>', 'level': 80, 'short': 'pb'},
+        'putgroup': {'desc': 'add a client to a group', 'syntax': '^7Usage: ^2!putgroup ^7<name> <group>', 'level': 80},
+        'rebuild': {'desc': 'sync up all available maps', 'syntax': '^7Usage: ^2!rebuild', 'level': 80},
+        'setgravity': {'desc': 'set the gravity (default: 800)', 'syntax': '^7Usage: ^2!setgravity ^7<value>', 'level': 80},
+        'setnextmap': {'desc': 'set the next map', 'syntax': '^7Usage: ^2!setnextmap ^7<ut4_name>', 'level': 80},
+        'unban': {'desc': 'unban a player from the database', 'syntax': '^7Usage: ^2!unban ^7<@ID>', 'level': 80},
+        'unreg': {'desc': 'remove a player from the regular group', 'syntax': '^7Usage: ^2!unreg ^7<name>', 'level': 80},
+        # superadmin commands, level 90
+        'jump': {'desc': 'change gametype to Jump', 'syntax': '^7Usage: ^2!jump', 'level': 90},
+        'ungroup': {'desc': 'remove admin level from a player', 'syntax': '^7Usage: ^2!ungroup ^7<name>', 'level': 90},
+        'password': {'desc': 'set private server password', 'syntax': '^7Usage: ^2!password ^7[<password>]', 'level': 90},
+        'reload': {'desc': 'reload map', 'syntax': '^7Usage: ^2!reload', 'level': 90}
+    }
+
+    commands_list_full = {
+        'help': {'desc': 'display all available commands', 'syntax': '^7Usage: ^2!help', 'level': 0, 'short': 'h'},
         'forgive': {'desc': 'forgive a player for team killing', 'syntax': '^7Usage: ^2!forgive ^7[<name>]', 'level': 0, 'short': 'f'},
         'forgiveall': {'desc': 'forgive all team kills', 'syntax': '^7Usage: ^2!forgiveall', 'level': 0, 'short': 'fa'},
         'forgivelist': {'desc': 'list all players who killed you', 'syntax': '^7Usage: ^2!forgivelist', 'level': 0, 'short': 'fl'},

@@ -42,7 +42,7 @@ class Commands:
         'lookup': {'desc': 'search for a player in the database', 'syntax': '^7Usage: ^2!lookup ^7<name>', 'level': 80, 'short': 'l'},
         'map': {'desc': 'load given map', 'syntax': '^7Usage: ^2!map ^7<ut4_name>', 'level': 60},
         'mapcycle': {'desc': 'list the map rotation', 'syntax': '^7Usage: ^2!mapcycle', 'level': 80},
-        'maps': {'desc': 'display all available maps', 'syntax': '^7Usage: ^2!maps', 'level': 80},
+        'maps': {'desc': 'display all available maps', 'syntax': '^7Usage: ^2!maps', 'level': 0},
         'maprestart': {'desc': 'restart the map', 'syntax': '^7Usage: ^2!maprestart', 'level': 80, 'short': 'restart'},
         'moon': {'desc': 'activate low gravity mode (Moon mode)', 'syntax': '^7Usage: ^2!moon ^7<on/off>', 'level': 80, 'short': 'lowgravity'},
         'permban': {'desc': 'ban a player permanent', 'syntax': '^7Usage: ^2!permban ^7<name> <reason>', 'level': 80, 'short': 'pb'},
@@ -62,7 +62,7 @@ class Commands:
         'spec': {'desc': 'move yourself to spectator', 'syntax': '^7Usage: ^2!spec', 'level': 0},
         'play': {'desc': 'move yourself to play', 'syntax': '^7Usage: ^2!play', 'level': 0},
         'roll': {'desc': 'randomly pick a new nextmap', 'syntax': '^7Usage: ^2!roll', 'level': 0},
-        'download': {'desc': 'download a map from urt.li', 'syntax': '^7Usage: ^2!download', 'level': 80},
+        'download': {'desc': 'download a map from urt.li', 'syntax': '^7Usage: ^2!download ^7[<map_name.pk3>]{*}', 'level': 80},
     }
 
     commands_list_full = {

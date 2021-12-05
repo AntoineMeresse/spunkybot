@@ -44,6 +44,7 @@ from lib.pyquake3 import PyQuake3
 from src.commands import Commands
 from src.reasons import Reasons
 import wget
+import glob
 
 # Get an instance of a logger
 logger = logging.getLogger('spunkybot')
@@ -1564,13 +1565,10 @@ class LogParser(object):
                     self.game.rcon_tell(sar['player_num'], "^7Command is disabled for this game mode")
 
             # spec - move yourself to spectator
-            elif sar['command'] in ('!spec') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['spec']['level']:
-                print(self.game.players[sar['player_num']].get_admin_role())
-                print(COMMANDS['roll']['level'])
-                print(COMMANDS['download']['level'])
+            elif sar['command'] == ('!spec') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['spec']['level']:
                 self.game.rcon_forceteam(sar['player_num'], 'spectator')
 
-            elif sar['command'] in ('!play') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['play']['level']:
+            elif sar['command'] == ('!play') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['play']['level']:
                 self.game.rcon_forceteam(sar['player_num'], 'red')
 
             # warninfo - display how many warnings the player has
@@ -2669,7 +2667,7 @@ class LogParser(object):
                     self.iamgod = False
                     self.game.rcon_tell(sar['player_num'], "^7You are registered as ^6Head Admin")
 ## Perso
-            
+
             elif sar['command'] == '!roll' and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['roll']['level']:
                 map_list = self.game.get_all_maps()
                 nextmap = random.choice(map_list)
@@ -2686,7 +2684,6 @@ class LogParser(object):
                     for map in maps:
                         map_name = map.replace(".pk3","")
                         map_already_exist = map_name not in map_list
-                        print(map_already_exist)
                         if map_already_exist:
                             try:
                                 full_url = "http://urt.li/q3ut4/"+map
@@ -3946,7 +3943,7 @@ class Game(object):
         self.set_all_maps()
         self.maplist = filter(None, self.get_mapcycle_path())
         self.set_current_map()
-        self.rcon_say("^7Powered by ^8[Spunky Bot %s] ^1[www.spunkybot.de]" % __version__)
+        self.rcon_say("^7 %s !" % CONFIG.get('server', 'server_name'))
         logger.info("Mapcycle: %s", ', '.join(self.maplist))
         logger.info("*** Live tracking: Current map: %s / Next map: %s ***", self.mapname, self.next_mapname)
         logger.info("Total number of maps  : %s", len(self.get_all_maps()))
@@ -3999,17 +3996,8 @@ class Game(object):
         set a list of all available maps
         """
         try:
-            all_maps = []
-            count = 0
-            while True:
-                ret_val = self.get_rcon_output("dir map bsp")[1].split()
-                if "Directory" in ret_val:
-                    count += 1
-                if count >= 2:
-                    break
-                else:
-                    all_maps += ret_val
-            all_maps_list = list(set([maps.replace("/", "").replace(".bsp", "").lower() for maps in all_maps if maps.startswith("/")]))
+            path = CONFIG.get('server', 'download_folder')+"*.pk3"
+            all_maps_list = [os.path.basename(map).replace(".pk3","") for map in glob.glob(path)]
             all_maps_list.sort()
             if all_maps_list:
                 self.all_maps_list = all_maps_list

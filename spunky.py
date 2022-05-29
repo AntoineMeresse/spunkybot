@@ -2766,7 +2766,7 @@ class LogParser(object):
 
             elif sar['command'].startswith('!mapperinfo') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['mapperinfo']['level']:
                 mapper = line.split(sar['command'])[1].strip()
-                if(len(mapper) < 3):
+                if(len(mapper) >= 3):
                     mapperlist = maps_from_mapper(mapper)
                     self.game.rcon_say("^7Map made by :  %s (Found : %s map(s))" % (str(mapper), str(len(mapperlist))))
                     if (mapperlist > 0):

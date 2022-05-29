@@ -62,7 +62,13 @@ class Commands:
         'spec': {'desc': 'move yourself to spectator', 'syntax': '^7Usage: ^2!spec', 'level': 0},
         'play': {'desc': 'move yourself to play', 'syntax': '^7Usage: ^2!play', 'level': 0},
         'roll': {'desc': 'randomly pick a new nextmap', 'syntax': '^7Usage: ^2!roll', 'level': 0},
-        'download': {'desc': 'download a map from urt.li', 'syntax': '^7Usage: ^2!download ^7[<map_name.pk3>]{*}', 'level': 80},
+        'download': {'desc': 'download a map from urt.li', 'syntax': '^7Usage: ^2!download ^7[<map_name.pk3>]{*}', 'level': 90},
+        'timelimit': {'desc': 'Change the timelimit', 'syntax': '^7Usage: ^2!timelimit ^7[<time in minutes>]{*}', 'level': 80},
+        'extendmap': {'desc': 'Extend the timeout', 'syntax': '^7Usage: ^2!extendmap', 'level': 20},
+        'stamina': {'desc': 'Change the server stamina', 'syntax': '^7Usage: ^2!stamina', 'level': 0},
+        'ff' : {'desc' : 'Ragequit map', 'syntax': '^7Usage: ^2!ff', 'level': 0},
+        'mapinfo' : {'desc' : 'Get map infos', 'syntax': '^7Usage: ^2!mapinfo ^7[<mapname>]', 'level': 0},
+        'mapperinfo' : {'desc' : 'Get mapper maps', 'syntax': '^7Usage: ^2!mapperinfo ^7[<mapper>]', 'level': 0},
     }
 
     commands_list_full = {
@@ -178,5 +184,12 @@ class Commands:
         'ts': {'desc': 'change gametype to Team Survivor', 'syntax': '^7Usage: ^2!ts', 'level': 90},
         'ungroup': {'desc': 'remove admin level from a player', 'syntax': '^7Usage: ^2!ungroup ^7<name>', 'level': 90},
         'password': {'desc': 'set private server password', 'syntax': '^7Usage: ^2!password ^7[<password>]', 'level': 90},
-        'reload': {'desc': 'reload map', 'syntax': '^7Usage: ^2!reload', 'level': 90}
+        'reload': {'desc': 'reload map', 'syntax': '^7Usage: ^2!reload', 'level': 90},
+
+        'timelimit': {'desc': 'Change the timelimit', 'syntax': '^7Usage: ^2!timelimit ^7[<time in minutes>]{*}', 'level': 80},
+        'extendmap': {'desc': 'Extend the timeout', 'syntax': '^7Usage: ^2!extendmap', 'level': 20},
+        'stamina': {'desc': 'Change the server stamina', 'syntax': '^7Usage: ^2!stamina', 'level': 0},
+        'ff' : {'desc' : 'Ragequit map', 'syntax': '^7Usage: ^2!ff', 'level': 0},
+        'mapinfo' : {'desc' : 'Get map infos', 'syntax': '^7Usage: ^2!mapinfo ^7[<mapname>]', 'level': 0},
+        'mapperinfo' : {'desc' : 'Get mapper maps', 'syntax': '^7Usage: ^2!mapperinfo ^7[<mapper>]', 'level': 0},
     }

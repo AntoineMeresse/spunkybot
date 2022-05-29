@@ -45,6 +45,7 @@ from src.commands import Commands
 from src.reasons import Reasons
 import wget
 import glob
+from src.mapinfo import *
 
 # Get an instance of a logger
 logger = logging.getLogger('spunkybot')
@@ -2250,6 +2251,7 @@ class LogParser(object):
                         self.game.rcon_tell(sar['player_num'], msg)
                     else:
                         self.game.rcon_bigtext("^7Changing map to %s" % newmap)
+                        self.game.next_mapname = newmap
                         self.game.send_rcon('map %s' % newmap)
                 else:
                     self.game.rcon_tell(sar['player_num'], COMMANDS['map']['syntax'])
@@ -2675,6 +2677,33 @@ class LogParser(object):
                 self.game.next_mapname = nextmap
                 self.game.rcon_tell(sar['player_num'], "^7Next Map set to: ^3%s" % nextmap)
 
+            elif sar['command'] == '!timelimit' and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['timelimit']['level']:
+                if line.split(sar['command'])[1]:
+                    print("timelimit")
+                    time_second = line.split(sar['command'])[1].strip()
+                    self.game.send_rcon('timelimit 0')
+                    time.sleep(1)
+                    self.game.send_rcon('timelimit %s' % time_second)
+                    self.game.rcon_say('^7Timelimit set to : $s' % time_second)
+
+            elif sar['command'] == '!extendmap' and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['extendmap']['level']:
+                print("extendmap")
+                self.game.send_rcon('timelimit 0')
+                time.sleep(1)
+                self.game.send_rcon('timelimit 30')
+                self.game.rcon_say('^7Timelimit has been extended')
+
+            elif sar['command'] == '!stamina' and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['stamina']['level']:
+                if line.split(sar['command'])[1]:
+                    stamina = line.split(sar['command'])[1].strip()
+                    if (stamina == 'on'):
+                        self.game.send_rcon('g_stamina 2')
+                        self.game.rcon_say('^7Full stamina activated')
+                        return
+                self.game.send_rcon('g_stamina 1')
+                self.game.rcon_say('^7Full stamina desactivated')
+                
+
             elif sar['command'] == '!download' and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['download']['level']:
                 map_list = self.game.get_all_maps()
                 reload = False
@@ -2686,20 +2715,70 @@ class LogParser(object):
                         map_already_exist = map_name not in map_list
                         if map_already_exist:
                             try:
-                                full_url = "http://urt.li/q3ut4/"+map
+                                full_url = "http://urt.li/q3ut4/"+map_name+".pk3"
                                 print(full_url)
-                                self.game.rcon_tell(sar['player_num'], "^7Downloading map : ^3%s" % map)
+                                self.game.rcon_say("^7Downloading map : ^3%s" % map)
                                 wget.download(full_url, out= CONFIG.get('server', 'download_folder'))
                                 map_list.append(map)
-                                self.game.rcon_tell(sar['player_num'], "^7Downloading map : ^3%s (Finished)" % map)
-                                reload = True
+                                self.game.rcon_say("^7Downloading map : ^3%s (Finished)" % map)
+                                #reload = True
                             except:
-                                self.game.rcon_tell(sar['player_num'], "^7Can't download the map: ^3%s in urt.li" % map)
+                                self.game.rcon_say("^7Can't download the map: ^3%s in urt.li" % map)
                                 continue
                         else:
-                            self.game.rcon_tell(sar['player_num'], "^Map ^3%s is already on server !" % map)
+                            self.game.rcon_say("^7Map ^3%s is already on server !" % map)
                 if (reload):
                     self.game.send_rcon('reload')
+
+            elif sar['command'] == '!ff' and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['ff']['level']:
+                player = self.game.players[sar['player_num']]
+                self.kick_player_reason("This player isn't good enough for this map !", player.get_player_num())
+
+            elif sar['command'].startswith('!mapinfo') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['mapinfo']['level']:
+                mapinfo = line.split(sar['command'])[1].strip()
+                if (mapinfo == ""):
+                    mapinfo = self.game.mapname
+                maps = map_infos(mapinfo)
+                if (len(maps) == 1):
+                    m = maps[0]
+                    self.game.rcon_say("^7Map info for :  %s" % str(m['file']))
+                    self.game.rcon_say("^7--------> Mapper : %s" % str(m['mapper']))
+                    self.game.rcon_say("^7--------> Level : %s" % str(m['level']))
+                    self.game.rcon_say("^7--------> Release Date : %s" % str(m['release']))
+                    self.game.rcon_say("^7--------> Number of jumps : %s" % str(m['jumps_number']))
+                elif (len(maps) == 0):
+                    self.game.rcon_say("^7Can't find mapinfos for :  %s" % mapinfo)
+                else:
+                    self.game.rcon_say("^7Several maps found, do you mean :  %s" % mapinfo)
+                    cpt = 1
+                    if (len(maps) < 10):
+                        for m in maps:
+                            self.game.rcon_say("^7--------> %s) %s" % (str(cpt), str(m['file'])))
+                            cpt+=1
+                    else:
+                        for m in maps:
+                            if cpt < 10:
+                                self.game.rcon_say("^7--------> %s) %s" % (str(cpt), str(m['file'])))
+                            if cpt == (len(maps)):
+                                self.game.rcon_say("^7 ...")
+                                self.game.rcon_say("^7--------> %s) %s" % (str(cpt), str(m['file'])))
+                            cpt+=1
+
+            elif sar['command'].startswith('!mapperinfo') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['mapperinfo']['level']:
+                mapper = line.split(sar['command'])[1].strip()
+                if(len(mapper) < 3):
+                    mapperlist = maps_from_mapper(mapper)
+                    self.game.rcon_say("^7Map made by :  %s (Found : %s map(s))" % (str(mapper), str(len(mapperlist))))
+                    if (mapperlist > 0):
+                        cpt = 1
+                        for m in mapperlist:
+                            self.game.rcon_say("^7--------> %s) %s" % (str(cpt), str(m)))
+                            cpt+=1
+                    else:
+                        self.game.rcon_say("^7--------> No map found")
+                else:
+                    self.game.rcon_say("^7You need to specify a mapper with at least 3 letters")
+
 
 ## unknown command
             elif sar['command'].startswith('!') and len(sar['command']) > 1 and self.game.players[sar['player_num']].get_admin_role() > 20:

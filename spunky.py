@@ -1572,6 +1572,7 @@ class LogParser(object):
             elif sar['command'] == ('!play') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['play']['level']:
                 self.game.rcon_forceteam(sar['player_num'], 'red')
 
+
             # warninfo - display how many warnings the player has
             elif (sar['command'] == '!warninfo' or sar['command'] == '!wi') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['warninfo']['level']:
                 if line.split(sar['command'])[1]:
@@ -2779,6 +2780,13 @@ class LogParser(object):
                 else:
                     self.game.rcon_say("^7You need to specify a mapper with at least 3 letters")
 
+            elif sar['command'].startswith('!setgoto') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['setgoto']['level']:
+                jumpName = line.split(sar['command'])[1].strip() 
+                self.game.rcon_saveJump(sar['player_num'], jumpName)
+            
+            elif sar['command'].startswith('!goto') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['goto']['level']:
+                jumpName = line.split(sar['command'])[1].strip() 
+                self.game.rcon_LoadJump(sar['player_num'], jumpName)
 
 ## unknown command
             elif sar['command'].startswith('!') and len(sar['command']) > 1 and self.game.players[sar['player_num']].get_admin_role() > 20:
@@ -3992,6 +4000,12 @@ class Game(object):
         @type  team: String
         """
         self.send_rcon('forceteam %d %s' % (player_num, team))
+
+    def rcon_saveJump(self, player_num, jumpName) :
+        self.send_rcon('saveJumpPos %d %s' % (player_num, jumpName))
+
+    def rcon_LoadJump(self, player_num, jumpName) :
+        self.send_rcon('loadJumpPos %d %s' % (player_num, jumpName))
 
     def rcon_clear(self):
         """

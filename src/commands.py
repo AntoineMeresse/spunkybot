@@ -69,6 +69,8 @@ class Commands:
         'ff' : {'desc' : 'Ragequit map', 'syntax': '^7Usage: ^2!ff', 'level': 0},
         'mapinfo' : {'desc' : 'Get map infos', 'syntax': '^7Usage: ^2!mapinfo ^7[<mapname>]', 'level': 0},
         'mapperinfo' : {'desc' : 'Get mapper maps', 'syntax': '^7Usage: ^2!mapperinfo ^7[<mapper>]', 'level': 0},
+        'setgoto' : {'desc' : 'Set position for goto', 'syntax': '^7Usage: ^2!setgoto ^7[<jumpname>]', 'level': 80},
+        'goto' : {'desc' : 'Goto position', 'syntax': '^7Usage: ^2!goto ^7[<jumpname>]', 'level': 0}
     }
 
     commands_list_full = {

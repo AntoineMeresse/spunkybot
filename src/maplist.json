@@ -1,0 +1,6392 @@
+[
+    {
+      "file": "ut4_ajumps",
+      "mapname": "A Jumps",
+      "type": "normal",
+      "level": 35.0,
+      "mapper": "xSm3agol",
+      "release": "2009-01-02",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut4_a4n00bjumps_b1",
+      "mapname": "A4 Noob Jumps",
+      "type": "normal",
+      "level": 35.0,
+      "mapper": "cinefilo",
+      "release": "2010-12-29",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut4_abyss_b1",
+      "mapname": "Abyss",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "Mikeu",
+      "release": "2011-07-26",
+      "jumps_number": "24 (+ 5 secrets)"
+    },
+    {
+      "file": "ut4_adlucem_b1",
+      "mapname": "Ad Lucem",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Quark**",
+      "release": "2013-05-25",
+      "jumps_number": "35"
+    },
+    {
+      "file": "ut43_ujfm2k18_ahmad-jumps_b1",
+      "mapname": "ahmad-jumps",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "AHMAD_H",
+      "release": "2018-07-28",
+      "jumps_number": "5"
+    },
+    {
+      "file": "ut4_aliasjumps_beta2_a",
+      "mapname": "Alias Jumps",
+      "type": "normal",
+      "level": 40,
+      "mapper": "astars",
+      "release": "2010-01-15",
+      "jumps_number": "16"
+    },
+    {
+      "file": "Apple_Deathrun_rc",
+      "mapname": "Apple Death Run",
+      "type": "normal",
+      
+      "mapper": "KAS, aka SaianSupa",
+      "release": "2012-04-06",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_arcadium_b1",
+      "mapname": "Arcadium",
+      "type": "icy",
+      "level": 75.0,
+      "mapper": "Quark**, MR_BEAN",
+      "release": "2014-08-04",
+      "jumps_number": "40 (2 ways)"
+    },
+    {
+      "file": "ut4_arcane_a2",
+      "mapname": "Arcane",
+      "type": "normal",
+      "level": 65,
+      "mapper": "Opex",
+      "release": "2012-11-09",
+      "jumps_number": "42 (3 ways)"
+    },
+    {
+      "file": "ut4_asteroid_belt_b1",
+      "mapname": "Asteroid Belt",
+      "type": "normal",
+      
+      "mapper": "Levant",
+      "release": "2015-07-19",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_atrophy_v1",
+      "mapname": "Atrophy",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "ie7",
+      "release": "2014-06-26",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_aurora_b1",
+      "mapname": "Aurora",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "Kib",
+      "release": "2018-09-14",
+      "jumps_number": "23"
+    },
+    {
+      "file": "ut42_azedia_b3",
+      "mapname": "Azedia",
+      "type": "normal",
+      "level": 98.0,
+      "mapper": "kr4, aka stupz",
+      "release": "2015-01-30",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_azurea_a2",
+      "mapname": "Azurea",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "gsigms, SettinG",
+      "release": "2012-09-14",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_bjumps",
+      "mapname": "B Jumps",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "xSm3agol",
+      "release": "2009-11-18",
+      "jumps_number": "23"
+    },
+    {
+      "file": "ut43_ballad_v1",
+      "mapname": "Ballad",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Vivaldi",
+      "release": "2017-09-15",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut42_barbaria",
+      "mapname": "Barbaria",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "V!0",
+      "release": "2016-05-31",
+      "jumps_number": "31"
+    },
+    {
+      "file": "ut4_bardok-blebble",
+      "mapname": "Bardok Blebble",
+      "type": "race",
+      
+      "mapper": "Pornstar, updated by Samchun",
+      "release": "2013-05-25",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_Bardok-Egypt",
+      "mapname": "Bardok Egypt",
+      "type": "normal",
+      
+      "mapper": "Pornstar, updated by Samchun",
+      "release": "2013-06-08",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_bardok_strafe_a1",
+      "mapname": "Bardok Strafe",
+      "type": "normal",
+      
+      "mapper": "Pornstar, updated by Samchun",
+      "release": "2013-06-16",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_bardok-w3sp",
+      "mapname": "Bardok W3sp",
+      "type": "race",
+      
+      "mapper": "Pornstar, updated by Samchun",
+      "release": "2013-06-01",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_beginners_jump_a1",
+      "mapname": "Beginners Jump",
+      "type": "normal",
+      "level": 18.0,
+      "mapper": "Demon666",
+      "release": "2011-07-01",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_betel_b1",
+      "mapname": "Betel",
+      "type": "normal",
+      "level": 93.0,
+      "mapper": "spidercochon",
+      "release": "2013-04-11",
+      "jumps_number": "14"
+    },
+    {
+      "file": "ut4_betelj8_insanity",
+      "mapname": "Betelj8 Insanity",
+      "type": "shit",
+      "level": 80.0,
+      "mapper": "Samchun",
+      "release": "2013-12-12",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_biduda",
+      "mapname": "Biduda",
+      "type": "normal",
+      
+      "mapper": "Jo3",
+      "release": "2012-11-19",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_bisjump_b1",
+      "mapname": "Bis Jump",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Numero-bis",
+      "release": "2009-01-15",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut43_black_b1",
+      "mapname": "Black",
+      "type": "Normal",
+      "level": 60.0,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2019-04-01",
+      "jumps_number": "33+7, 4, 3 (+6)"
+    },
+    {
+      "file": "ut4_blackicy_beta1_0",
+      "mapname": "Black Icy",
+      "type": "icy",
+      "level": 75.0,
+      "mapper": "RageQuit",
+      "release": "2013-05-27",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_blackwhitejumps",
+      "mapname": "Black White Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "FXG",
+      "release": "2010-04-20",
+      "jumps_number": "20+7"
+    },
+    {
+      "file": "ut4_bladejumper_p1b1",
+      "mapname": "Blade Jumper",
+      "type": "normal",
+      "level": 33.0,
+      "mapper": "fromtheinside",
+      "release": "2011-11-06",
+      "jumps_number": "7 (2 ways)"
+    },
+    {
+      "file": "ut42_blue_b1",
+      "mapname": "Blue",
+      "type": "normal",
+      "level": 95.0,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2015-11-24",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_bombwalls_b1",
+      "mapname": "Bomb Walls",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "",
+      "release": "2007-07-25",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_booobjumps_beta4",
+      "mapname": "Booob Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Booob",
+      "release": "2012-07-25",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_bounce_beta_4",
+      "mapname": "Bounce",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "TWPK",
+      "release": "2007-05-28",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut4_brbadjumps_prealpha",
+      "mapname": "Br Bad Jumps",
+      "type": "normal",
+      "level": 85,
+      "mapper": "PabloWTF, aka Crux",
+      "release": "2014-07-07",
+      "jumps_number": "3"
+    },
+    {
+      "file": "ut4_brickjumps_beta5",
+      "mapname": "Brick Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "Mr Dino, aka Dino",
+      "release": "2008-09-13",
+      "jumps_number": "19 (4 ways)"
+    },
+    {
+      "file": "ut42_bstjumps_u2",
+      "mapname": "BST Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Moonie, updated by Noxtty",
+      "release": "2013-10-23",
+      "jumps_number": "46 (+ 4 secrets) (5 ways)"
+    },
+    {
+      "file": "ut4_bttf_jumps_beta1_1",
+      "mapname": "BTTF",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "DagF, aka |TNC|Ditto",
+      "release": "2012-03-02",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_bubble_b1",
+      "mapname": "Bubble",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Hugo, ie7",
+      "release": "2014-08-11",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut4_bucovina_b1",
+      "mapname": "Bucovina",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "V!0",
+      "release": "2016-01-15",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut4_bull-highway",
+      "mapname": "Bull Highway",
+      "type": "race",
+      
+      "mapper": "Bull and B6, updated by Samchun",
+      "release": "2013-05-02",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_cabaret",
+      "mapname": "Cabaret",
+      "type": "normal",
+      "level": 73.0,
+      "mapper": "kib",
+      "release": "2015-04-19",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut42_caerdunh_b2",
+      "mapname": "Caerdunh",
+      "type": "normal",
+      "level": 80,
+      "mapper": "BlindBlake",
+      "release": "2016-11-24",
+      "jumps_number": "54 (5 ways)"
+    },
+    {
+      "file": "ut4_carpatic_jump_v2",
+      "mapname": "Carpatic Jump",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "V!0",
+      "release": "2013-06-26",
+      "jumps_number": "30"
+    },
+    {
+      "file": "ut4_carsjumps_b1",
+      "mapname": "Cars Jumps",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Ferrari",
+      "release": "2010-04-05",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut42_castlerace_a1",
+      "mapname": "Castle Race",
+      "type": "normal",
+      
+      "mapper": "Quark**",
+      "release": "2015-02-02",
+      "jumps_number": "1 race"
+    },
+    {
+      "file": "ut4_caverna_v1",
+      "mapname": "Caverna",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "V!0",
+      "release": "2014-03-24",
+      "jumps_number": "20 + 20 (4 ways)"
+    },
+    {
+      "file": "ut4_ceres_beta1a",
+      "mapname": "Ceres",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Levant",
+      "release": "2013-01-20",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_charon_b1",
+      "mapname": "Charon",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "Levant",
+      "release": "2017-10-25",
+      "jumps_number": "30 (2 ways)"
+    },
+    {
+      "file": "ut4_chimera_b1",
+      "mapname": "Chimera",
+      "type": "normal",
+      "level": 73.0,
+      "mapper": "kib",
+      "release": "2015-05-09",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_climax_v1",
+      "mapname": "Climax",
+      "type": "normal",
+      "level": 83.0,
+      "mapper": "Vivaldi",
+      "release": "2010-04-02",
+      "jumps_number": "20 (3 ways)"
+    },
+    {
+      "file": "ut4_combatjumps_beta1",
+      "mapname": "Combat Jumps",
+      "type": "normal",
+      
+      "mapper": "KroniK, DagF, aka |TNC|Ditto",
+      "release": "2012-05-11",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_comedyworld_icyjumps_5b",
+      "mapname": "Comedy World Icy",
+      "type": "icy",
+      
+      "mapper": "peacecat",
+      "release": "2018-02-08",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_commove_b1",
+      "mapname": "Commove",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "kib",
+      "release": "2015-11-22",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut42_compendium_u1",
+      "mapname": "Compendium",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Moonie",
+      "release": "2013-09-05",
+      "jumps_number": "22+11+12+... (4 ways)"
+    },
+    {
+      "file": "ut_conjump",
+      "mapname": "Con Jump",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "DouDou",
+      "release": "2005-04-17",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_core",
+      "mapname": "Core",
+      "type": "normal",
+      "level": 35.0,
+      "mapper": "Lee",
+      "release": "2008-04-23",
+      "jumps_number": "4"
+    },
+    {
+      "file": "ut4_cosmic_icyjumps_a3",
+      "mapname": "Cosmic Icy Jumps",
+      "type": "icy",
+      "level": 40.0,
+      "mapper": "peacecat, aka jumpsrule",
+      "release": "2012-05-01",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut4_cpm_1",
+      "mapname": "CPM run 1",
+      "type": "race",
+      
+      "mapper": "Chronos (Levant)",
+      "release": "2015-03-02",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_pornstar-cpmrun3",
+      "mapname": "CPM run 3",
+      "type": "run",
+      
+      "mapper": "Pornstar (Levant)",
+      "release": "2015-03-02",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_chronos_cpmrun5",
+      "mapname": "CPM run 5",
+      "type": "normal",
+      
+      "mapper": "Chronos (Levant)",
+      "release": "2015-03-02",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_cpm_7",
+      "mapname": "CPM run 7",
+      "type": "normal",
+      
+      "mapper": "Chronos (Levant)",
+      "release": "2015-03-01",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_crappyjumps_a1",
+      "mapname": "Crappy Jumps",
+      "type": "normal",
+      "level": 20.0,
+      "mapper": "sweetooth",
+      "release": "2011-02-03",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_creazyjump",
+      "mapname": "Creazy Jump",
+      "type": "awesome",
+      "level": 40.0,
+      "mapper": "Warrior",
+      "release": "2009-09-12",
+      "jumps_number": "22"
+    },
+    {
+      "file": "ut4_creazyjumpl33t_a4",
+      "mapname": "Creazy Jump L33t",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Sk8OrDie",
+      "release": "2011-07-19",
+      "jumps_number": "20"
+    },
+    {
+      "file": "ut4_creyos",
+      "mapname": "Creyos",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "AloW",
+      "release": "2010-07-06",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_crouchtraining_a1",
+      "mapname": "Crouch Training",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "spidercochon",
+      "release": "2010-12-31",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut4_cruxjumps_b1",
+      "mapname": "Crux Jumps",
+      "type": "normal",
+      "level": 83.0,
+      "mapper": "PabloWTF, aka Crux",
+      "release": "2013-09-06",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut4_crystalonight_jump_a2",
+      "mapname": "Crystalonight Jump",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Jaybi, Kaitoss",
+      "release": "2009-10-30",
+      "jumps_number": "6 + 2"
+    },
+    {
+      "file": "ut4_cubix_jump",
+      "mapname": "Cubix Jump",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "V!0",
+      "release": "2013-11-06",
+      "jumps_number": "20"
+    },
+    {
+      "file": "ujfm2k18_cycle_a1",
+      "mapname": "cycle",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "Quark**",
+      "release": "2018-07-28",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut4_czechjumps_b3_fixed",
+      "mapname": "Czech Jumps",
+      "type": "normal",
+      "level": 48.0,
+      "mapper": "Qcz",
+      "release": "2013-10-12",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_dare2jump_b1a",
+      "mapname": "Dare 2 Jump",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "DuTchEr95",
+      "release": "2014-03-08",
+      "jumps_number": "15 jumps / 4 secrets"
+    },
+    {
+      "file": "ut4_Darkcity",
+      "mapname": "Dark City",
+      "type": "normal",
+      "level": 65.0,
+      "mapper": "@lejo",
+      "release": "2010-03-05",
+      "jumps_number": "25"
+    },
+    {
+      "file": "ut4_darkjumps_b5",
+      "mapname": "Dark Jumps",
+      "type": "normal",
+      "level": 65.0,
+      "mapper": "postit",
+      "release": "2010-10-09",
+      "jumps_number": "40 (2 ways)"
+    },
+    {
+      "file": "ut4_darksequel_b2",
+      "mapname": "Dark Sequel",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "postit",
+      "release": "2012-01-27",
+      "jumps_number": "32 (2 ways)"
+    },
+    {
+      "file": "ut42_darkness_b1",
+      "mapname": "Darkness",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "V!0",
+      "release": "2016-01-29",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_dayfee_b1",
+      "mapname": "Dayfee",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "jmarc",
+      "release": "2010-11-05",
+      "jumps_number": "2 (2 ways)"
+    },
+    {
+      "file": "ut4_dayum_v1",
+      "mapname": "Dayum",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "MR_BEAN",
+      "release": "2014-09-02",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_dbjumps_beta",
+      "mapname": "DB Jumps",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "Jo3",
+      "release": "2013-07-19",
+      "jumps_number": "30"
+    },
+    {
+      "file": "ut4_de1337edjumps_beta3",
+      "mapname": "De1337eD Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "DJ_De1337eD",
+      "release": "2010-05-22",
+      "jumps_number": "23"
+    },
+    {
+      "file": "ut4_deathjumps",
+      "mapname": "Death Jumps",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "RaMpAgE (old), updated by AnnId!ot",
+      "release": "2007-04-22",
+      "jumps_number": "9"
+    },
+    {
+      "file": "deathjumps",
+      "mapname": "Death Jumps (Old)",
+      "type": "normal",
+      "level": 5.0,
+      "mapper": "RaMpAgE (old)",
+      "release": "2004-01-18",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_deathjumps_hell",
+      "mapname": "Death Jumps Hell",
+      "type": "normal",
+      "level": 20.0,
+      "mapper": "Deqth",
+      "release": "2007-08-18",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_deathrun_v2",
+      "mapname": "Death Run",
+      "type": "normal",
+      
+      "mapper": "Ratchet",
+      "release": "2011-06-11",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_deathrun_cek",
+      "mapname": "Death Run Cek",
+      "type": "normal",
+      
+      "mapper": "Th3 Kl[ll]er",
+      "release": "2011-08-29",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_deathrun_panic_v3",
+      "mapname": "Death Run Panic",
+      "type": "normal",
+      
+      "mapper": "DuTchEr95",
+      "release": "2011-05-07",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_deathrun_shadow_v5",
+      "mapname": "Death Run Shadow",
+      "type": "normal",
+      
+      "mapper": "j.english",
+      "release": "2012-12-23",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_deathrun_space",
+      "mapname": "Death Run Space",
+      "type": "normal",
+      
+      "mapper": "Ratchet",
+      "release": "2012-06-20",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_deathrun_sup",
+      "mapname": "Death Run Sup",
+      "type": "normal",
+      
+      "mapper": "DuTchEr95",
+      "release": "2011-05-08",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_deathtrapjumps_b1",
+      "mapname": "Death Trap Jumps",
+      "type": "normal",
+      "level": 25.0,
+      "mapper": "Lizart",
+      "release": "2014-11-01",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut4_Demonic",
+      "mapname": "Demonic",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "V!0, KMO",
+      "release": "2015-01-26",
+      "jumps_number": "20"
+    },
+    {
+      "file": "ut4_demonic_revange",
+      "mapname": "Demonic Revange",
+      "type": "normal",
+      "level": 92.0,
+      "mapper": "V!0",
+      "release": "2015-02-05",
+      "jumps_number": "10"
+    },
+    {
+      "file": "q_derpjumps_final",
+      "mapname": "Derp Jumps",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Manhut",
+      "release": "2010-06-16",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_descension_u1",
+      "mapname": "Descension",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Moonie",
+      "release": "2013-09-05",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut43_destitute_v3",
+      "mapname": "Destitute",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "Luckypops",
+      "release": "2018-06-22",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_dinirun3",
+      "mapname": "DiniRun3",
+      "type": "normal",
+      
+      "mapper": "Dinius (Levant)",
+      "release": "2015-03-02",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut42_disinsmoothed_b2",
+      "mapname": "Disinsmoothed",
+      "type": "normal",
+      "level": 70,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2016-01-03",
+      "jumps_number": "30"
+    },
+    {
+      "file": "ut4_dmcjumps_1",
+      "mapname": "DMC Jumps 1",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "Detroit Metal City, aka FXG",
+      "release": "2010-10-22",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_dmcjumps_2",
+      "mapname": "DMC Jumps 2",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Detroit Metal City, aka FXG",
+      "release": "2010-10-28",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_dmcjumps_3",
+      "mapname": "DMC Jumps 3",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Detroit Metal City, aka FXG",
+      "release": "2010-11-03",
+      "jumps_number": "7+3"
+    },
+    {
+      "file": "ut4_dmcjumps_4",
+      "mapname": "DMC Jumps 4",
+      "type": "normal",
+      "level": 45.0,
+      "mapper": "Detroit Metal City, aka FXG",
+      "release": "2010-11-22",
+      "jumps_number": "20"
+    },
+    {
+      "file": "ut4_dodgethis",
+      "mapname": "Dodge This",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "Synister",
+      "release": "2009-10-05",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_dontfall",
+      "mapname": "Don't Fall",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Keres",
+      "release": "2007-08-31",
+      "jumps_number": "56"
+    },
+    {
+      "file": "ut4_dontgetwet_dev",
+      "mapname": "Don't Get Wet",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "Misato-san",
+      "release": "2008-12-29",
+      "jumps_number": "22"
+    },
+    {
+      "file": "ut43_doomap_r1b",
+      "mapname": "Doomap",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Doom",
+      "release": "2017-07-20",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_dormroom_beta2",
+      "mapname": "Dorm Room",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Dormedas",
+      "release": "2007-07-19",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_douzetraining_a2",
+      "mapname": "Douze Training",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Douze",
+      "release": "2010-04-30",
+      "jumps_number": "12"
+    },
+    {
+      "file": "dragOn_jumps_tst1",
+      "mapname": "DragOn Jumps",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "SnowKK",
+      "release": "2011-08-16",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_dragonball_z1",
+      "mapname": "Dragonball Z",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "Mikeu",
+      "release": "2016-09-14",
+      "jumps_number": "16+2"
+    },
+    {
+      "file": "ut4_dsb_b1",
+      "mapname": "DSB",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Mikeu, BuD0KaI",
+      "release": "2011-05-22",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut42_dungeonjumps",
+      "mapname": "Dungeon Jumps",
+      "type": "normal",
+      "level": 65,
+      "mapper": "Hugo",
+      "release": "2016-09-21",
+      "jumps_number": "19"
+    },
+    {
+      "file": "ut4_dutcherjumps_b2v1",
+      "mapname": "Dutcher Jumps",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "DuTchEr95",
+      "release": "2011-01-31",
+      "jumps_number": "14"
+    },
+    {
+      "file": "ut4_earthship_jumps",
+      "mapname": "EarthShip Jumps",
+      "type": "shit",
+      "level": 45.0,
+      "mapper": "peacecat, aka jumpsrule ",
+      "release": "2012-01-29",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_easyjumps_a2",
+      "mapname": "Easy Jumps",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Mr Dino, aka Dino",
+      "release": "2008-11-01",
+      "jumps_number": "7"
+    },
+    {
+      "file": "ut4_eazyjumps",
+      "mapname": "Eazy Jumps",
+      "type": "normal",
+      "level": 35,
+      "mapper": "astars",
+      "release": "2011-02-10",
+      "jumps_number": "10+6"
+    },
+    {
+      "file": "ujfm2k18_egypt_b1",
+      "mapname": "Egypt",
+      "type": "normal",
+      "level": 95.0,
+      "mapper": "Th3K1ll3r",
+      "release": "2018-07-29",
+      "jumps_number": "5"
+    },
+    {
+      "file": "ut4_egyptetarget_b3",
+      "mapname": "Egypte Target",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Kl4nk",
+      "release": "2011-10-12",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut_eleliminador",
+      "mapname": "El Eliminador",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "",
+      "release": "2005-12-06",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_elco-arca",
+      "mapname": "elco-arca",
+      "type": "normal",
+      
+      "mapper": "Elco (Levant)",
+      "release": "2015-03-02",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_electrojumps_v6",
+      "mapname": "Electro Jumps",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "iShOxX",
+      "release": "2011-03-09",
+      "jumps_number": "5"
+    },
+    {
+      "file": "ut43_elfix_b5",
+      "mapname": "Elfix",
+      "type": "normal",
+      "level": 100.0,
+      "mapper": "stupz",
+      "release": "2018-04-22",
+      "jumps_number": "7"
+    },
+    {
+      "file": "ut4_elitejumping",
+      "mapname": "Elite Jumping",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "PreperationH, updated by AnnId!ot",
+      "release": "2007-05-13",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut_elitejumping",
+      "mapname": "Elite Jumping (Old)",
+      "type": "normal",
+      "level": 5.0,
+      "mapper": "PreparationH",
+      "release": "2006-02-14",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_emh_jumps_c",
+      "mapname": "EMH Jumps",
+      "type": "normal",
+      "level": 48.0,
+      "mapper": "pratwa",
+      "release": "2014-06-18",
+      "jumps_number": "14"
+    },
+    {
+      "file": "ut4_enigma_b1",
+      "mapname": "Enigma",
+      "type": "normal",
+      "level": 50,
+      "mapper": "V!0",
+      "release": "2015-04-24",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_equilibrium_b1",
+      "mapname": "Equilibrium",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Richardyourgod",
+      "release": "2010-08-01",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut4_eris_b1",
+      "mapname": "Eris",
+      "type": "icy",
+      "level": 75.0,
+      "mapper": "Levant",
+      "release": "2016-06-04",
+      "jumps_number": "18 (5 ways)"
+    },
+    {
+      "file": "ut4_examine_maya_a1n",
+      "mapname": "Examine Maya",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "Co0ki3",
+      "release": "2011-09-09",
+      "jumps_number": "12+1"
+    },
+    {
+      "file": "ut4_(s)Example_jumps_b1",
+      "mapname": "Example Jumps",
+      "type": "normal",
+      "level": 65.0,
+      "mapper": "Co0ki3",
+      "release": "2010-04-07",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_Excavation_beta1",
+      "mapname": "Excavation",
+      "type": "normal",
+      "level": 73.0,
+      "mapper": "Co0ki3",
+      "release": "2011-02-13",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut4_excejumps_b1a",
+      "mapname": "Exce Jumps",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Exception, xandaxs",
+      "release": "2014-01-09",
+      "jumps_number": "5"
+    },
+    {
+      "file": "ut42_exil_jump",
+      "mapname": "Exil Jump",
+      "type": "normal",
+      "level": 92.0,
+      "mapper": "V!0",
+      "release": "2016-05-07",
+      "jumps_number": "19"
+    },
+    {
+      "file": "ut4_extreme_jumps_a2",
+      "mapname": "Extreme Jumps",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "Co0ki3",
+      "release": "2011-04-22",
+      "jumps_number": "23 (2 ways)"
+    },
+    {
+      "file": "ut4_ezyride_b4",
+      "mapname": "Ezy Ride",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "eZyRideR",
+      "release": "2011-04-23",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut42_fhjumps_b1",
+      "mapname": "FH Jumps",
+      "type": "normal",
+      "level": 60,
+      "mapper": "Hugo, Flirodia",
+      "release": "2014-07-07",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut43_flex_b2",
+      "mapname": "Flex",
+      "type": "normal",
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2019-05-24",
+      "jumps_number": "19 (+4)"
+    },
+    {
+      "file": "ut4_flinnjumps",
+      "mapname": "Flinn Jumps",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "joob3r_noel, aka Joober",
+      "release": "2009-03-15",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut42_flow2_beta",
+      "mapname": "Flow",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2016-08-12",
+      "jumps_number": "6 + 16 + 7"
+    },
+    {
+      "file": "ut4_flux_b1",
+      "mapname": "Flux",
+      "type": "normal",
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2013-08-14",
+      "jumps_number": "16+8"
+    },
+    {
+      "file": "ut4_flyingdaggers_b1",
+      "mapname": "Flying Daggers",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "fromtheinside",
+      "release": "2012-03-02",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_Fogly-Jumps",
+      "mapname": "Fogly Jumps",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "Z3nnY",
+      "release": "2011-07-06",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut4_fragmapjumps_a1",
+      "mapname": "Fragmap Jumps",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "gom6ee",
+      "release": "2014-08-21",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_freakjumps",
+      "mapname": "Freak Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "AnnId!ot",
+      "release": "2007-05-11",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut_freakjumps_beta4",
+      "mapname": "Freak Jumps (Old)",
+      "type": "normal",
+      "level": 20.0,
+      "mapper": "AnnId!ot",
+      "release": "2006-10-28",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_UJFM-frenchies_jumps",
+      "mapname": "Frenchies Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Ferrari",
+      "release": "2011-02-20",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_fuggyjumps_v1",
+      "mapname": "Fuggy Jumps",
+      "type": "normal",
+      "level": 45.0,
+      "mapper": "KAS, aka SaianSupa",
+      "release": "2011-02-12",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_fun_maze_1",
+      "mapname": "Fun Maze 1",
+      "type": "normal",
+      
+      "mapper": "",
+      "release": "2015-06-23",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_funtown_jumps_b2",
+      "mapname": "Fun Town Jumps",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "Gets, aka Itsme, aka Moi",
+      "release": "2014-11-17",
+      "jumps_number": "29"
+    },
+    {
+      "file": "ut42_fun_toxic_b1",
+      "mapname": "Fun Toxic",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "V!0",
+      "release": "2016-02-14",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_funnyjumps",
+      "mapname": "Funny Jumps",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "Drezil",
+      "release": "2009-02-24",
+      "jumps_number": "45 (+2x5+3)"
+    },
+    {
+      "file": "ut42_funticy_a2",
+      "mapname": "Funt Icy",
+      "type": "icy",
+      
+      "mapper": "Flirodia, Gets",
+      "release": "2015-08-25",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_funtown_mirage_b1",
+      "mapname": "Funtown Mirage",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "V!0",
+      "release": "2016-10-23",
+      "jumps_number": "25 (2 ways)"
+    },
+    {
+      "file": "ut42_furiax_a1",
+      "mapname": "Furiax",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "Sensati0n",
+      "release": "2015-05-17",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_futre_b1c",
+      "mapname": "Futre",
+      "type": "normal",
+      "level": 88.0,
+      "mapper": "Markinho",
+      "release": "2012-12-05",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut4_UJFM-fuyujumps",
+      "mapname": "Fuyu Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "FXG",
+      "release": "2011-02-21",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_pornstar-gaand",
+      "mapname": "Gaand",
+      "type": "run",
+      
+      "mapper": "Pornstar (Levant)",
+      "release": "2015-03-02",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_garfed",
+      "mapname": "Garfed",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Kl4nk",
+      "release": "2012-12-10",
+      "jumps_number": "4 (3 ways)"
+    },
+    {
+      "file": "ut4_GentlemanJump_b1",
+      "mapname": "Gentleman Jump",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Demon666",
+      "release": "2011-11-23",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_gethyper_v1",
+      "mapname": "Get Hyper",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "Sensati0n",
+      "release": "2014-08-16",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_geumepi_beta",
+      "mapname": "Geumepi",
+      "type": "normal",
+      "level": 33.0,
+      "mapper": "fromtheinside",
+      "release": "2011-09-27",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut4_ghost-luckr",
+      "mapname": "Ghost Luckr",
+      "type": "normal",
+      
+      "mapper": "Pornstar, updated by Samchun",
+      "release": "2013-06-02",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_gliese_b3",
+      "mapname": "Gliese",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "stupz",
+      "release": "2017-04-19",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut4_GoF",
+      "mapname": "GoF",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "kouly",
+      "release": "2012-05-15",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_gothicjumps",
+      "mapname": "Gothic Jumps",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "navyseal",
+      "release": "2007-12-11",
+      "jumps_number": "14"
+    },
+    {
+      "file": "ut4_gravity_b1",
+      "mapname": "Gravity",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "ie7",
+      "release": "2014-11-11",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut4_greentoxic_a1",
+      "mapname": "Green Toxic",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "stupz",
+      "release": "2015-05-04",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_guardian_jumps",
+      "mapname": "Guardian Jumps",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Wolf18",
+      "release": "2011-07-17",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_gula_t5",
+      "mapname": "Gula",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "stupz",
+      "release": "2016-01-30",
+      "jumps_number": "10 (2 ways)"
+    },
+    {
+      "file": "ut4_Halo_jump_b1",
+      "mapname": "Halo Jump",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Warrior",
+      "release": "2010-03-04",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut4_happyicejumps_b1",
+      "mapname": "Happy Ice Jumps",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "HappyDay",
+      "release": "2013-01-15",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_happyjumptutorial_beta3",
+      "mapname": "Happy Jump Tutorial",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "HappyDay",
+      "release": "2009-11-25",
+      "jumps_number": "40"
+    },
+    {
+      "file": "ut4_happyworldjumps_b3",
+      "mapname": "Happy World Jumps",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "HappyDay",
+      "release": "2013-02-26",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_hardjumps_b5",
+      "mapname": "Hard Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "nSand",
+      "release": "2011-09-10",
+      "jumps_number": "9+19 (2 ways)"
+    },
+    {
+      "file": "ut42_HardTimes_b2",
+      "mapname": "Hard Times",
+      "type": "normal",
+      "level": 83.0,
+      "mapper": "Flirodia",
+      "release": "2014-06-14",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut42_helius",
+      "mapname": "Helius",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "Gets, aka Itsme, aka Moi",
+      "release": "2015-04-21",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_hellride_b3",
+      "mapname": "Hell Ride",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "eZyRideR",
+      "release": "2012-12-22",
+      "jumps_number": "10+1"
+    },
+    {
+      "file": "ut4_hellocutty_b1",
+      "mapname": "Hello Cutty",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "fromtheinside",
+      "release": "2012-06-12",
+      "jumps_number": "14"
+    },
+    {
+      "file": "HeroJumps",
+      "mapname": "Hero Jumps",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Ahts",
+      "release": "2009-07-13",
+      "jumps_number": "5"
+    },
+    {
+      "file": "ut4_hitechjumps_a2",
+      "mapname": "Hitech Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "ValkoVer",
+      "release": "2010-10-16",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut4_hofjumps_a22",
+      "mapname": "Hof Jumps",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "joob3r_noel, aka Joober",
+      "release": "2013-07-21",
+      "jumps_number": "19"
+    },
+    {
+      "file": "ut4_hpjumps",
+      "mapname": "HP Jumps",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "FXG",
+      "release": "2011-02-08",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut43_hugojumps",
+      "mapname": "Hugo Jumps",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "Hugo",
+      "release": "2017-08-09",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_hugojumps_b1",
+      "mapname": "Hugo Jumps",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "Hugo",
+      "release": "2013-06-30",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_hurricane",
+      "mapname": "Hurricane",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "V!0",
+      "release": "2014-05-24",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_huvada_b3",
+      "mapname": "Huvada",
+      "type": "normal",
+      "mapper": "Hugo & Vampire",
+      "release": "2015-01-24",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut4_hydrodynamic_jumps_v4",
+      "mapname": "Hydro Dynamic Jumps",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Princess",
+      "release": "2011-12-13",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_hyperi0n_unfinished",
+      "mapname": "Hyperi0n",
+      "type": "normal",
+      "level": 95.0,
+      "mapper": "stupz",
+      "release": "2018-06-14",
+      "jumps_number": "4"
+    },
+    {
+      "file": "ut4_icecoldicy004",
+      "mapname": "Ice Cold Icy",
+      "type": "icy",
+      "level": 70.0,
+      "mapper": "IceColdCoca-Cola",
+      "release": "2011-07-28",
+      "jumps_number": "15 (2 ways)"
+    },
+    {
+      "file": "ut4_icehell_demo",
+      "mapname": "Ice Hell Demo",
+      "type": "normal",
+      
+      "mapper": "PabloWTF, aka Crux",
+      "release": "2015-06-26",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_icelogic_jumps_v10",
+      "mapname": "Ice Logic",
+      "type": "normal",
+      "level": 30,
+      "mapper": "Luckypops, Noxtty",
+      "release": "2012-08-15",
+      "jumps_number": "33"
+    },
+    {
+      "file": "ut4_icyacer_b2",
+      "mapname": "Icy Acer",
+      "type": "icy",
+      "level": 85.0,
+      "mapper": "PabloWTF, aka Crux",
+      "release": "2013-12-31",
+      "jumps_number": "20 + 3"
+    },
+    {
+      "file": "ut4_icycastle_alpha5",
+      "mapname": "Icy Castle",
+      "type": "icy",
+      "level": 85.0,
+      "mapper": "Vulture",
+      "release": "2013-01-20",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_icycube_b1_2",
+      "mapname": "Icy Cube",
+      "type": "icy",
+      "level": 55.0,
+      "mapper": "KroniK",
+      "release": "2012-04-25",
+      "jumps_number": "11 (2 ways)"
+    },
+    {
+      "file": "ut4_icyfantasy1a",
+      "mapname": "Icy Fantasy",
+      "type": "icy",
+      "level": 65.0,
+      "mapper": "Rambetter",
+      "release": "2011-03-25",
+      "jumps_number": "20 (2 ways)"
+    },
+    {
+      "file": "ut4_icyfunspot_b6",
+      "mapname": "Icy Fun Spot",
+      "type": "icy",
+      "level": 40.0,
+      "mapper": "Sysmyks, Rootsman",
+      "release": "2015-05-18",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_icygalaxy1a",
+      "mapname": "Icy Galaxy",
+      "type": "icy",
+      "level": 75.0,
+      "mapper": "KroniK, Leighrex",
+      "release": "2011-11-15",
+      "jumps_number": "22 (3 ways)"
+    },
+    {
+      "file": "ut43_icygrip_b2",
+      "mapname": "Icy Grip",
+      "type": "icy",
+      "level": 80.0,
+      "mapper": "V!0, Th3K1ll3r",
+      "release": "2018-02-08",
+      "jumps_number": "16 (+2)"
+    },
+    {
+      "file": "ut4_icyjumps5d",
+      "mapname": "Icy Jumps",
+      "type": "icy",
+      "level": 50.0,
+      "mapper": "Rambetter",
+      "release": "2011-03-26",
+      "jumps_number": "22 (2 ways)"
+    },
+    {
+      "file": "ut43_icyjumps5d",
+      "mapname": "Icy Jumps",
+      "type": "icy",
+      "level": 50.0,
+      "mapper": "Rambetter",
+      "release": "2021-01-24",
+      "jumps_number": "22 (2 ways)"
+    },
+    {
+      "file": "ut4_icyjumps_pro2a",
+      "mapname": "Icy Jumps Pro",
+      "type": "icy",
+      "level": 60.0,
+      "mapper": "Rambetter",
+      "release": "2009-02-23",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut4_icylift_a1",
+      "mapname": "Icy Lift",
+      "type": "icy",
+      "level": 65.0,
+      "mapper": "Opex",
+      "release": "2012-05-29",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_icymonster_v5",
+      "mapname": "Icy Monster",
+      "type": "icy",
+      "level": 67.5,
+      "mapper": "Sysmyks",
+      "release": "2016-08-23",
+      "jumps_number": "18 Icy + 4 Non-Icy Rooms"
+    },
+    {
+      "file": "ut4_icynoob",
+      "mapname": "Icy Noob",
+      "type": "icy",
+      "level": 60.0,
+      "mapper": "Mr.Jump3rs",
+      "release": "2011-05-27",
+      "jumps_number": "4"
+    },
+    {
+      "file": "ut4_UJFM-icyparkour",
+      "mapname": "Icy Parkour",
+      "type": "icy",
+      "level": 48.0,
+      "mapper": "Teerasas",
+      "release": "2011-02-20",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_icysequel1a",
+      "mapname": "Icy Sequel",
+      "type": "icy",
+      "level": 73.0,
+      "mapper": "Rambetter",
+      "release": "2009-02-22",
+      "jumps_number": "28 (2 ways)"
+    },
+    {
+      "file": "ut4_icysequel_pro",
+      "mapname": "Icy Sequel Pro (Old Version)",
+      "type": "icy",
+      "level": 95.0,
+      "mapper": "KroniK",
+      "release": "2012-05-15",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut4_icyuniverse_b5",
+      "mapname": "Icy Universe",
+      "type": "icy",
+      "level": 75.0,
+      "mapper": "PabloWTF, aka Crux",
+      "release": "2011-07-01",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_icyunleashed_beta8v2",
+      "mapname": "Icy Unleashed",
+      "type": "icy",
+      "level": 60.0,
+      "mapper": "Sarah, Artek",
+      "release": "2011-04-07",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_icywonderland_b2",
+      "mapname": "Icy Wonderland",
+      "type": "icy",
+      "level": 100.0,
+      "mapper": "MisiUx",
+      "release": "2017-05-25",
+      "jumps_number": "15 (+4)"
+    },
+    {
+      "file": "ut4_icywonderland_b3",
+      "mapname": "Icy Wonderland",
+      "type": "icy",
+      "level": 85,
+      "mapper": "MisiUx",
+      "release": "2021-01-11",
+      "jumps_number": "15 (+4)"
+    },
+    {
+      "file": "ut4_icyworld1b",
+      "mapname": "Icy World",
+      "type": "icy",
+      "level": 70.0,
+      "mapper": "Rambetter",
+      "release": "2011-03-26",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_icyclic_b1",
+      "mapname": "Icyclic",
+      "type": "icy",
+      
+      "mapper": "Levant",
+      "release": "2016-09-26",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_If_Jumps_Beta2",
+      "mapname": "If Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "DagF, aka |TNC|Ditto",
+      "release": "2010-02-24",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_iiss_b1",
+      "mapname": "IISS",
+      "type": "icy",
+      "level": 70.0,
+      "mapper": "Levant",
+      "release": "2013-02-09",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_ikarus_dev_repacked",
+      "mapname": "Ikarus",
+      "type": "normal",
+      
+      "mapper": "Drezil",
+      "release": "2012-01-19",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_imperfectjumps_b3",
+      "mapname": "Imperfect Jumps",
+      "type": "normal",
+      "level": 80,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2014-10-05",
+      "jumps_number": "22"
+    },
+    {
+      "file": "ut4_inception_a2",
+      "mapname": "Inception",
+      "type": "normal",
+      "level": 35.0,
+      "mapper": "Rylius",
+      "release": "2012-03-02",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_infinityicy_a2fix",
+      "mapname": "Infinity Icy",
+      "type": "icy",
+      "level": 68.0,
+      "mapper": "RoflCopter, Teerasas",
+      "release": "2011-06-19",
+      "jumps_number": "21"
+    },
+    {
+      "file": "ut4_insomnia_a1",
+      "mapname": "Insomnia",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "DJ_De1337eD",
+      "release": "2010-11-27",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_invictusb2",
+      "mapname": "Invictus",
+      "type": "normal",
+      "level": 45.0,
+      "mapper": "Asche",
+      "release": "2010-03-09",
+      "jumps_number": "20"
+    },
+    {
+      "file": "ut43_invidia_b2",
+      "mapname": "Invidia",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "stupz",
+      "release": "2017-09-04",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_ironmap_b1",
+      "mapname": "Iron Map",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Mikeu",
+      "release": "2012-03-01",
+      "jumps_number": "5"
+    },
+    {
+      "file": "ujfm2k18_japanero",
+      "mapname": "japanero",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "kib",
+      "release": "2018-07-27",
+      "jumps_number": "5"
+    },
+    {
+      "file": "ut4_jjstrapv2",
+      "mapname": "JJstrap",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "Kl4nk",
+      "release": "2009-11-14",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut4_jooberjumps",
+      "mapname": "Joober Jumps",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "joob3r_noel, aka Joober, updated by xSm3agol",
+      "release": "2009-12-21",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_jttcote_b1",
+      "mapname": "JTTCOTE",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Opex",
+      "release": "2012-03-04",
+      "jumps_number": "7"
+    },
+    {
+      "file": "ut4_jump4all",
+      "mapname": "Jump 4 All",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "Jo3",
+      "release": "2012-08-30",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_jumpcamp_v2",
+      "mapname": "Jump Camp",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Lee",
+      "release": "2008-05-30",
+      "jumps_number": "14"
+    },
+    {
+      "file": "ut4_jumpfear_dev",
+      "mapname": "Jump Fear",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "Drezil",
+      "release": "2009-07-18",
+      "jumps_number": ""
+    },
+    {
+      "file": "jumpfordumbs",
+      "mapname": "Jump For Dumbs",
+      "type": "normal",
+      "level": 25.0,
+      "mapper": "",
+      "release": "2008-12-30",
+      "jumps_number": "10"
+    },
+    {
+      "file": "jumpit",
+      "mapname": "Jump It",
+      "type": "normal",
+      "level": 15.0,
+      "mapper": "",
+      "release": "2004-05-26",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_jumpmap_b1",
+      "mapname": "Jump Map",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "Hugo",
+      "release": "2014-07-06",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_jumpme_beta1",
+      "mapname": "Jump Me",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Vivaldi",
+      "release": "2008-09-08",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_jump_ro_b3",
+      "mapname": "Jump Ro",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "V!0",
+      "release": "2012-06-29",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut4_jumpsand_b2",
+      "mapname": "Jump Sand",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Ferrari",
+      "release": "2010-10-09",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_jumpskills_beta_2",
+      "mapname": "Jump Skills",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "LiquidSky",
+      "release": "2007-06-30",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut42_jumptemp_u1",
+      "mapname": "Jump Temp",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Moonie",
+      "release": "2013-09-05",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut4_Jumptest",
+      "mapname": "Jump Test",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "ZerdeR's",
+      "release": "2011-07-22",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_jumptheshark_beta61",
+      "mapname": "Jump The Shark",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "apath0",
+      "release": "2008-10-12",
+      "jumps_number": "30"
+    },
+    {
+      "file": "ut4_jumptheworld_dev",
+      "mapname": "Jump The World",
+      "type": "normal",
+      "level": 20.0,
+      "mapper": "Warrior",
+      "release": "2009-09-19",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_jumpthis_beta",
+      "mapname": "Jump This",
+      "type": "normal",
+      "level": 35.0,
+      "mapper": "Fierce Ferret, updated by Mr Slicey",
+      "release": "2007-05-21",
+      "jumps_number": "12"
+    },
+    {
+      "file": "JumpThis",
+      "mapname": "Jump This (Old)",
+      "type": "normal",
+      
+      "mapper": "Fierce Ferret",
+      "release": "2003-12-05",
+      "jumps_number": "8"
+    },
+    {
+      "file": "jumpthis2",
+      "mapname": "Jump This 2 (Old)",
+      "type": "normal",
+      
+      "mapper": "Fierce Ferret",
+      "release": "2003-12-31",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut_jumptraining",
+      "mapname": "Jump Training",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "Unstoppable",
+      "release": "2003-04-17",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_jumptypes",
+      "mapname": "Jump types",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "",
+      "release": "2008-06-28",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_jumpvibe_beta",
+      "mapname": "Jump Vibe",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "SeleNiuM",
+      "release": "2008-08-30",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut_jumps",
+      "mapname": "Jumps (Old)",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "HENNESSY",
+      "release": "2002-07-15",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut_jumps2",
+      "mapname": "Jumps 2 (Old)",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "",
+      "release": "2002-07-29",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_jumps4m3_final",
+      "mapname": "Jumps 4 M3",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "FXG",
+      "release": "2010-11-22",
+      "jumps_number": "17"
+    },
+    {
+      "file": "jumpsforbabies",
+      "mapname": "Jumps For Babies",
+      "type": "normal",
+      "level": 13.0,
+      "mapper": "bbf1982, aka Hugo",
+      "release": "2014-06-12",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_jumpsfordumbs2",
+      "mapname": "Jumps For Dumbs",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "xSm3agol",
+      "release": "2009-01-04",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut4_jumpsforgays_b2",
+      "mapname": "Jumps For Gays",
+      "type": "normal",
+      "level": 35.0,
+      "mapper": "Gay Jumper",
+      "release": "2009-03-17",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut4_jumpy",
+      "mapname": "Jumpy",
+      "type": "normal",
+      "level": 20.0,
+      "mapper": "fromtheinside",
+      "release": "2011-08-18",
+      "jumps_number": "14"
+    },
+    {
+      "file": "ut42_jupiter",
+      "mapname": "Jupiter",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Levant, landouille",
+      "release": "2013-01-19",
+      "jumps_number": "84 (4 ways)"
+    },
+    {
+      "file": "ut4_JustJump",
+      "mapname": "Just Jump",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "CL3791",
+      "release": "2012-01-07",
+      "jumps_number": "33"
+    },
+    {
+      "file": "ut4_karajump_a3",
+      "mapname": "Kara Jump",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "karabounga",
+      "release": "2012-03-14",
+      "jumps_number": "24"
+    },
+    {
+      "file": "ut4_kidjumps_b2",
+      "mapname": "Kid Jumps",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "BillyTheKid",
+      "release": "2011-09-26",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_killua-pornstar",
+      "mapname": "Killua Pornstar",
+      "type": "run",
+      
+      "mapper": "Killua, updated by Samchun",
+      "release": "2013-05-25",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_kingpins_vulcano_parkour_a1",
+      "mapname": "KingPins Vulcano Parkour",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "KingPin",
+      "release": "2015-08-05",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_klhjsd",
+      "mapname": "Klhjsd",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Levant",
+      "release": "2013-01-16",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_krazyjumps_beta28",
+      "mapname": "Krazy Jumps",
+      "type": "normal",
+      "level": 43.0,
+      "mapper": "KrazyShot",
+      "release": "2008-12-28",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_larace_a1",
+      "mapname": "La Race",
+      "type": "race",
+      
+      "mapper": "fresh",
+      "release": "2014-02-13",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_pornstar-lamba-slick",
+      "mapname": "Lamba Slick",
+      "type": "run",
+      
+      "mapper": "Pornstar (Levant)",
+      "release": "2015-03-02",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_legendaryjumps1_5demo",
+      "mapname": "Legendary Jumps",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "Urb@n Legend",
+      "release": "2008-10-02",
+      "jumps_number": "22"
+    },
+    {
+      "file": "ut4_bardok-lick",
+      "mapname": "Lick",
+      "type": "normal",
+      
+      "mapper": "Bardok (Levant)",
+      "release": "2015-03-02",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_liftjumps",
+      "mapname": "Lift Jumps",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Opex",
+      "release": "2012-01-04",
+      "jumps_number": "13+16+6+4"
+    },
+    {
+      "file": "ut4_limbo_b3b",
+      "mapname": "Limbo",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "kib",
+      "release": "2018-06-05",
+      "jumps_number": "70 (5 ways)"
+    },
+    {
+      "file": "ut4_liquidjumps_b1",
+      "mapname": "Liquid Jumps",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "liquid..snake",
+      "release": "2011-05-20",
+      "jumps_number": "15 (+ 3 secrets)"
+    },
+    {
+      "file": "ut4_liquidnight_beta2",
+      "mapname": "Liquid Night",
+      "type": "normal",
+      "level": 35.0,
+      "mapper": "LiquidSky, updated by Moonie",
+      "release": "2009-09-04",
+      "jumps_number": "25"
+    },
+    {
+      "file": "ut4_lizzjumps_beta2",
+      "mapname": "Lizz Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "Lizart",
+      "release": "2010-03-02",
+      "jumps_number": "28"
+    },
+    {
+      "file": "ut4_lizzjumps_beta3",
+      "mapname": "Lizz Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "Lizart",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_longfall_v3",
+      "mapname": "Long Fall",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Lee",
+      "release": "2008-05-02",
+      "jumps_number": "3 rooms"
+    },
+    {
+      "file": "ut4_loopsjumps_b1",
+      "mapname": "Loops Jumps",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "Levant",
+      "release": "2015-07-15",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_looptyloo_v4",
+      "mapname": "Loopty Loo",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Lee",
+      "release": "2008-08-10",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_lotr",
+      "mapname": "LOTR",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "xSm3agol",
+      "release": "2008-12-29",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_louljumps_a2",
+      "mapname": "Loul Jumps",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "Sk8OrDie",
+      "release": "2012-12-23",
+      "jumps_number": "19+2"
+    },
+    {
+      "file": "ut43_lucifer_b1",
+      "mapname": "Lucifer",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Hugo, stupz",
+      "release": "2018-04-21",
+      "jumps_number": "14"
+    },
+    {
+      "file": "ut42_luminea_b1a",
+      "mapname": "Luminea",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "Hugo, stupz",
+      "release": "2017-06-18",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_Lunaria_beta2",
+      "mapname": "Lunaria",
+      "type": "normal",
+      "level": 95.0,
+      "mapper": "stupz",
+      "release": "2016-09-17",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut4_madjumps_a10",
+      "mapname": "Mad Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "Moonie",
+      "release": "2009-10-15",
+      "jumps_number": "23"
+    },
+    {
+      "file": "ut4_mamap_b3a",
+      "mapname": "Mamap",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "iShOxX",
+      "release": "2011-10-04",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_mamijumps-b2",
+      "mapname": "Mami Jumps",
+      "type": "normal",
+      "mapper": "Mr.Jump3rs",
+      "release": "2010-03-17",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_mariojump_beta2",
+      "mapname": "Mario Jump",
+      "type": "normal",
+      "level": 20.0,
+      "mapper": "Inka",
+      "release": "2010-11-06",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_markrace_a2",
+      "mapname": "Mark Race",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Levant",
+      "release": "2014-02-20",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_mars_b1",
+      "mapname": "Mars",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Levant",
+      "release": "2013-09-22",
+      "jumps_number": "36"
+    },
+    {
+      "file": "ut4_matrixjumps_b2",
+      "mapname": "Matrix Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "ValkoVer",
+      "release": "2012-03-15",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_UJFM-mayanjumps_b1",
+      "mapname": "Mayan Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Co0ki3",
+      "release": "2011-02-20",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_megajumps",
+      "mapname": "Mega Jumps",
+      "type": "normal",
+      "level": 20,
+      "mapper": "Keres",
+      "release": "2009-02-22",
+      "jumps_number": "27"
+    },
+    {
+      "file": "ut4_melodrama_b2",
+      "mapname": "Melodrama",
+      "type": "normal",
+      "level": 77.5,
+      "mapper": "kib",
+      "release": "2014-10-05",
+      "jumps_number": "14 + 2"
+    },
+    {
+      "file": "ut4_mercury_beta1a",
+      "mapname": "Mercury",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "Levant",
+      "release": "2013-01-21",
+      "jumps_number": "24 (2 ways)"
+    },
+    {
+      "file": "ut4_merrygoround_b1",
+      "mapname": "Merry Go Round",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Kl4nk",
+      "release": "2010-06-11",
+      "jumps_number": "30"
+    },
+    {
+      "file": "ut4_miepicyjumps_b1",
+      "mapname": "Miep Icy Jumps",
+      "type": "icy",
+      "level": 60,
+      "mapper": "MisiUx",
+      "release": "2016-08-09",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut4_mioritic-jump",
+      "mapname": "Mioritic",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "V!0",
+      "release": "2012-07-28",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut42_mooniejumps_u1",
+      "mapname": "Moonie Jumps",
+      "type": "normal",
+      "level": 45.0,
+      "mapper": "Moonie",
+      "release": "2013-09-06",
+      "jumps_number": "19 (3 ways)"
+    },
+    {
+      "file": "ut4_moria_b1",
+      "mapname": "Moria",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "Richardyourgod, Markinho",
+      "release": "2014-07-25",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut42_muldly_b3",
+      "mapname": "Muldly",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Hugo",
+      "release": "2016-02-16",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_mutfak_bronze",
+      "mapname": "Mutfak Bronze",
+      "type": "normal",
+      "level": 55,
+      "mapper": "Qwerty, aka httmann",
+      "release": "2009-08-11",
+      "jumps_number": "24"
+    },
+    {
+      "file": "ut4_mythic",
+      "mapname": "Mythic",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "wraith",
+      "release": "2013-06-05",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_n00b_jailbreak",
+      "mapname": "N00b Jailbreak",
+      "type": "normal",
+      "level": 45.0,
+      "mapper": "Syn",
+      "release": "2008-07-27",
+      "jumps_number": "18 rooms"
+    },
+    {
+      "file": "ut4_n00b_walljumpslava_b4",
+      "mapname": "N00b Wall Jumps Lava",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Syn",
+      "release": "2009-03-27",
+      "jumps_number": "20"
+    },
+    {
+      "file": "ut4_n1njumps_beta1",
+      "mapname": "N1n Jumps",
+      "type": "normal",
+      
+      "mapper": "n1n",
+      "release": "2011-07-13",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_n3ur0_icebase",
+      "mapname": "N3ur0 Ice Base",
+      "type": "normal",
+      
+      "mapper": "Pornstar, updated by Samchun",
+      "release": "2013-06-08",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_neptune_beta1_run2",
+      "mapname": "Neptune",
+      "type": "normal",
+      "mapper": "landouille",
+      "release": "2011-03-12",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut43_neso_b2",
+      "mapname": "Neso",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "stupz",
+      "release": "2017-04-20",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut4_never_ending_jumps_a3",
+      "mapname": "Never Ending Jumps",
+      "type": "normal",
+      
+      "mapper": "joob3r_noel, aka Joober",
+      "release": "2009-12-05",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_UJFM-niceice",
+      "mapname": "Nice Ice",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "postit",
+      "release": "2011-02-19",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_noicyjumps_b2a",
+      "mapname": "No Icy Jumps",
+      "type": "normal",
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2015-05-27",
+      "jumps_number": "23"
+    },
+    {
+      "file": "ut43_nonsense",
+      "mapname": "Nonsense",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Boromir",
+      "release": "2019-04-24",
+      "jumps_number": "6 (+2)"
+    },
+    {
+      "file": "ut4_noobjumps",
+      "mapname": "Noob Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "navyseal",
+      "release": "2008-01-15",
+      "jumps_number": "23"
+    },
+    {
+      "file": "ut4_noobjumpsv1",
+      "mapname": "Noob Jumps V1",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "navyseal",
+      "release": "2008-05-28",
+      "jumps_number": "22"
+    },
+    {
+      "file": "ut4_normaljumps_a3",
+      "mapname": "Normal Jumps",
+      "type": "normal",
+      "level": 48.0,
+      "mapper": "[GaMeR]",
+      "release": "2012-09-22",
+      "jumps_number": "24 (2 ways)"
+    },
+    {
+      "file": "ut42_nothardjumps_b1",
+      "mapname": "Not Hard Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2015-01-08",
+      "jumps_number": "30"
+    },
+    {
+      "file": "ut4_novajumps_v1",
+      "mapname": "Nova Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "fantm",
+      "release": "2009-07-14",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_octajumps_b2a",
+      "mapname": "Octa Jumps",
+      "type": "normal",
+      "level": 45.0,
+      "mapper": "Moonie",
+      "release": "2009-03-30",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut4_opexjumps_beta2",
+      "mapname": "Opexjumps",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Opex",
+      "release": "2009-07-05",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut43_orange_a2",
+      "mapname": "Orange",
+      "type": "normal",
+      "level": 75,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2017-01-20",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_orion",
+      "mapname": "Orion",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "b3e",
+      "release": "2013-04-21",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_osjumps_basic_v1",
+      "mapname": "OS Jumps Basic",
+      "type": "normal",
+      "level": 25.0,
+      "mapper": "Samm",
+      "release": "2010-12-30",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut4_OvO_jumps_beta_test",
+      "mapname": "OvO Jumps",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Gets, aka Itsme, aka Moi",
+      "release": "2013-04-16",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_parkour_gamma1",
+      "mapname": "Parkour Gamma",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Survivor",
+      "release": "2007-08-26",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut43_partumjumps_b5",
+      "mapname": "Partum Jumps",
+      "type": "normal",
+      "level": 40,
+      "mapper": "Hugo",
+      "release": "2018-05-05",
+      "jumps_number": "32"
+    },
+    {
+      "file": "ut42_pirate_land",
+      "mapname": "Pirate Land (4.2)",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "JohnnyEnglish",
+      "release": "2013-02-03",
+      "jumps_number": ""
+    },
+    {
+      "file": "uthd_pirate_land_a1",
+      "mapname": "Pirate Land (HD)",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "JohnnyEnglish",
+      "release": "2012-02-27",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_pirrijumps_b8",
+      "mapname": "Pirri Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "Samm",
+      "release": "2010-01-28",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut4_pirrijumps2_v1",
+      "mapname": "Pirri Jumps 2",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "Samm",
+      "release": "2010-03-29",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut43_pixel_b1",
+      "mapname": "Pixel",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Flirodia, Boromir",
+      "release": "2019-07-19",
+      "jumps_number": "14"
+    },
+    {
+      "file": "ut42_platyjumps_b1",
+      "mapname": "Platy Jumps",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "stupz",
+      "release": "2016-04-09",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut4_pocjumps_b2",
+      "mapname": "Poc Jumps",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "pocpoc, aka max47",
+      "release": "2015-02-12",
+      "jumps_number": "21"
+    },
+    {
+      "file": "ut4_pornstar-kaine",
+      "mapname": "Pornstar Kaine",
+      "type": "run",
+      
+      "mapper": "Pornstar, updated by Samchun",
+      "release": "2013-06-01",
+      "jumps_number": ""
+    },
+    {
+      "file": "pornstar_savare_urt",
+      "mapname": "Pornstar Savare Urt",
+      "type": "run",
+      
+      "mapper": "Pornstar, updated by Stratege",
+      "release": "2013-05-14",
+      "jumps_number": ""
+    },
+    {
+      "file": "pornstar-slopin",
+      "mapname": "Pornstar Slopin",
+      "type": "run",
+      "level": 75.0,
+      "mapper": "Pornstar",
+      "release": "2008-10-17",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_portal_tj",
+      "mapname": "Portal TJ",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "FXG, Co0ki3",
+      "release": "2011-11-20",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut_prepsjumps",
+      "mapname": "Preps Jumps",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "PreperationH, updated by Unstoppable",
+      "release": "2006-02-18",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_present_a1",
+      "mapname": "Present",
+      "type": "normal",
+      "level": 20.0,
+      "mapper": "LiquidSky, updated by Moonie",
+      "release": "2010-01-23",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_press_agrum_b1",
+      "mapname": "Press Agrum",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "PoMeLLo",
+      "release": "2010-03-20",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut43_pressure_b3",
+      "mapname": "Pressure",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Hugo, stupz",
+      "release": "2017-11-17",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut43_pressure_b4",
+      "mapname": "Pressure",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Hugo, stupz",
+      "release": "2020-04",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_projumps_b4",
+      "mapname": "Pro Jumps",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "joob3r_noel, aka Joober",
+      "release": "2009-08-01",
+      "jumps_number": "19 (3 ways)"
+    },
+    {
+      "file": "ut_projumps",
+      "mapname": "Pro Jumps (Old)",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "b0b3k",
+      "release": "2004-06-03",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut_projumps2",
+      "mapname": "Pro Jumps 2 (Old)",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "b0b3k",
+      "release": "2004-06-24",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_psychedelic_b2",
+      "mapname": "Psychedelic Icy Jumps",
+      "type": "icy",
+      "level": 75.0,
+      "mapper": "peacecat, aka jumpsrule, Creative Angel",
+      "release": "2013-05-12",
+      "jumps_number": "17 (+ 1 uberleet + 1 secret area)"
+    },
+    {
+      "file": "ut4_pulsar_b3",
+      "mapname": "Pulsar",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Noxtty, Kl4nk",
+      "release": "2010-09-11",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut4_PwnZ_icyjumps_B1",
+      "mapname": "PwnZ Icy Jumps",
+      "type": "icy",
+      "level": 70.0,
+      "mapper": "DuTchEr95, Projumper",
+      "release": "2010-01-01",
+      "jumps_number": "5"
+    },
+    {
+      "file": "ut4_qubejumps_a2",
+      "mapname": "Q.U.B.E Jumps",
+      "type": "normal",
+      "level": 20.0,
+      "mapper": "Markinho",
+      "release": "2012-05-27",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_Qbjumps_beta1",
+      "mapname": "QB Jumps",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "Qbadamiec",
+      "release": "2010-01-17",
+      "jumps_number": "27"
+    },
+    {
+      "file": "ut42_quakattack",
+      "mapname": "Quak Attack",
+      "type": "normal",
+      
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2014-02-14",
+      "jumps_number": ""
+    },
+    {
+      "file": "QUBEs_alpha",
+      "mapname": "QUBEs Alpha",
+      "type": "normal",
+      "level": 20.0,
+      "mapper": "StolleJay",
+      "release": "2012-02-15",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_quickjumps_b3",
+      "mapname": "Quick Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "WidowMaker",
+      "release": "2008-06-27",
+      "jumps_number": "29"
+    },
+    {
+      "file": "ut42_r7-xono",
+      "mapname": "R7 Xono",
+      "type": "normal",
+      
+      "mapper": "Rust7, updated by Noxtty",
+      "release": "2014-02-22",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_rabbit_1z",
+      "mapname": "Rabbit",
+      "type": "normal",
+      "level": 45.0,
+      "mapper": "Moonie",
+      "release": "2009-12-09",
+      "jumps_number": "23 (+ 5 Chillout Areas + 8 Nebula) (2 ways)"
+    },
+    {
+      "file": "ut42_raceloop_b1",
+      "mapname": "Race Loop",
+      "type": "race",
+      
+      "mapper": "Noxtty",
+      "release": "2013-06-09",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_randomjumps_a001",
+      "mapname": "Random Jumps",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Siim",
+      "release": "2010-01-14",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut4_rastachjumps_beta1",
+      "mapname": "Rastach Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "RaStachMan",
+      "release": "2011-04-22",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_rednbluejumps2",
+      "mapname": "Red And Blue Jumps",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "Siim",
+      "release": "2009-01-26",
+      "jumps_number": "5 rooms"
+    },
+    {
+      "file": "ut43_rednbluejumps_ub3rpro",
+      "mapname": "Red And Blue Jumps Uber Pro",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "Boromir",
+      "release": "2018-09-03",
+      "jumps_number": "5"
+    },
+    {
+      "file": "ut4_rhapsodicjumps_4",
+      "mapname": "Rhapsodic Jumps",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Vivaldi",
+      "release": "2013-08-03",
+      "jumps_number": "24"
+    },
+    {
+      "file": "ut43_risitasjumps_b1",
+      "mapname": "Risitas Jumps",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Boromir",
+      "release": "2018-08-30",
+      "jumps_number": "7 (+1)"
+    },
+    {
+      "file": "ut4_Roxeajump_beta",
+      "mapname": "Roxea Jump",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Nitr0",
+      "release": "2008-07-23",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut42_rs-run_a1",
+      "mapname": "Rs Run",
+      "type": "race",
+      
+      "mapper": "RealHero&STALKER, updated by Noxtty",
+      "release": "2014-03-12",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_runhall",
+      "mapname": "Run Hall",
+      "type": "race",
+      
+      "mapper": "Ryan 'Ryodox' Stockwell",
+      "release": "2015-03-03",
+      "jumps_number": "1"
+    },
+    {
+      "file": "lovetillua",
+      "mapname": "Run Hall",
+      "type": "normal",
+      
+      "mapper": "lovet and Killua",
+      "release": "2015-03-02",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut42_satisfaction_b1",
+      "mapname": "Satisfaction",
+      "type": "normal",
+      "level": 60,
+      "mapper": "Hugo, stupz",
+      "release": "2016-09-14",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_saturn_beta1",
+      "mapname": "Saturn (1 Path)",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "landouille",
+      "release": "2009-06-20",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut4_saturn_beta2",
+      "mapname": "Saturn (2 Paths)",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "landouille",
+      "release": "2010-06-27",
+      "jumps_number": "17+8 (2 ways)"
+    },
+    {
+      "file": "ut4_secretjumps_a1",
+      "mapname": "Secret Jumps",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "joob3r_noel, aka Joober",
+      "release": "2009-03-19",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut4_selejumps_beta2",
+      "mapname": "Sele Jumps",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "SeleNiuM",
+      "release": "2008-06-09",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_serenity_a2",
+      "mapname": "Serenity",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "ie7",
+      "release": "2014-04-15",
+      "jumps_number": "10 (easy) + 12 (medium/hard) (2 ways)"
+    },
+    {
+      "file": "ut4_seriousjumps_a1",
+      "mapname": "Serious Jumps",
+      "type": "meme",
+      "level": 60.0,
+      "mapper": "Maddyn",
+      "release": "2011-05-19",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut_sextrainning1",
+      "mapname": "Sex Trainning 1",
+      "type": "normal",
+      
+      "mapper": "Sisi con una N",
+      "release": "2005-07-23",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_shadowjumps_b1",
+      "mapname": "Shadow Jumps",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "PabloWTF, aka Crux",
+      "release": "2011-09-17",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut4_pornstar-shitbagz",
+      "mapname": "Shit Bagz",
+      "type": "run",
+      
+      "mapper": "Pornstar (Levant)",
+      "release": "2015-03-02",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_shortmap",
+      "mapname": "Short Map",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "Moonie",
+      "release": "2010-06-18",
+      "jumps_number": "7"
+    },
+    {
+      "file": "ut4_sickjumps_beta",
+      "mapname": "Sick Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "Bio-Hazard",
+      "release": "2007-08-28",
+      "jumps_number": "19"
+    },
+    {
+      "file": "ut42_sickwalls_a1",
+      "mapname": "Sick Walls",
+      "type": "normal",
+      
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2013-04-15",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut42_sightlessness_b2",
+      "mapname": "Sightlessness",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "BlindBlake",
+      "release": "2016-06-10",
+      "jumps_number": "20"
+    },
+    {
+      "file": "simonced_icy21",
+      "mapname": "Simonced Icy",
+      "type": "icy",
+      "level": 65.0,
+      "mapper": "Simonced",
+      "release": "2010-05-18",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut4_simplicity_a8",
+      "mapname": "Simplicity",
+      "type": "normal",
+      "level": 65.0,
+      "mapper": "ie7",
+      "release": "2014-02-26",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_sk8jumps_D05",
+      "mapname": "Sk8 Jumps",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Sk8OrDie",
+      "release": "2009-03-07",
+      "jumps_number": "38"
+    },
+    {
+      "file": "ut4_skipjumps_b2",
+      "mapname": "Skip Jumps",
+      "type": "shit",
+      "level": 90.0,
+      "mapper": "LiNeSsA",
+      "release": "2009-08-25",
+      "jumps_number": "25"
+    },
+    {
+      "file": "ut4_skome_b1",
+      "mapname": "Skome",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Skaz",
+      "release": "2009-06-24",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut4_skulljumps",
+      "mapname": "Skull Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "||3m3s!$",
+      "release": "2007-09-25",
+      "jumps_number": "19"
+    },
+    {
+      "file": "ut4_skyjumps_beta2",
+      "mapname": "Sky Jumps",
+      "type": "normal",
+      "level": 30.0,
+      "mapper": "daedalus",
+      "release": "2009-03-23",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut4_sliceyjumpsv2_beta2",
+      "mapname": "Slicey Jumps",
+      "type": "normal",
+      "mapper": "Mr Slicey",
+      "release": "2007-05-07",
+      "jumps_number": "27"
+    },
+    {
+      "file": "ut4_slickjumpsv3_beta",
+      "mapname": "Slick Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Bio-Hazard",
+      "release": "2007-08-04",
+      "jumps_number": "48"
+    },
+    {
+      "file": "ut4_slidejumps_a71",
+      "mapname": "Slide Jumps",
+      "type": "slide",
+      "level": 92.371234,
+      "mapper": "dev74",
+      "release": "2010-09-23",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut4_(s)m3_goals_test1",
+      "mapname": "Sm3 Goals",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "xSm3agol, Co0ki3",
+      "release": "2010-09-20",
+      "jumps_number": "4"
+    },
+    {
+      "file": "ut4_smalljump_b2c",
+      "mapname": "Small Jump",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "mifo, Small-Killer",
+      "release": "2012-12-22",
+      "jumps_number": "20"
+    },
+    {
+      "file": "ut4_smoothicyb8f",
+      "mapname": "Smooth Icy",
+      "type": "icy",
+      "level": 70.0,
+      "mapper": "peacecat, aka jumpsrule",
+      "release": "2012-03-15",
+      "jumps_number": "17 (2 ways)"
+    },
+    {
+      "file": "ut4_smorielf_test-31",
+      "mapname": "Smorielf",
+      "type": "normal",
+      "level": 65.0,
+      "mapper": "Try0",
+      "release": "2009-01-28",
+      "jumps_number": "26"
+    },
+    {
+      "file": "ut4_snjor_jumps",
+      "mapname": "Snjor Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Snjor",
+      "release": "2011-12-31",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_soaked_b1a",
+      "mapname": "Soaked",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "PabloWTF, aka Crux",
+      "release": "2014-04-20",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut43_sorrow_b1",
+      "mapname": "Sorrow",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Malt Lickeys",
+      "release": "2018-12-26",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut4_spamappersmap_v1",
+      "mapname": "Spa Mappers Map",
+      "type": "normal",
+      "level": 35.0,
+      "mapper": "Samm",
+      "release": "2011-03-01",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_spanoobjumps_b3",
+      "mapname": "Spa Noob Jumps",
+      "type": "normal",
+      "level": 45.0,
+      "mapper": "Samm",
+      "release": "2013-05-29",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_spacebase_alpha",
+      "mapname": "Space Base",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Gets, aka Itsme, aka Moi",
+      "release": "2015-03-22",
+      "jumps_number": "6 jumps"
+    },
+    {
+      "file": "ut4_spacejumps",
+      "mapname": "Space Jumps",
+      "type": "normal",
+      "level": 20.0,
+      "mapper": "Muffle",
+      "release": "2007-05-22",
+      "jumps_number": "7"
+    },
+    {
+      "file": "ut4_space_rukkus_v1",
+      "mapname": "Space Rukkus",
+      "type": "normal",
+      
+      "mapper": "Flame, Gautch",
+      "release": "2011-09-07",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_spacetarget",
+      "mapname": "Space Target",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Kl4nk",
+      "release": "2010-03-13",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut4_speedjumps_beta2",
+      "mapname": "Speed Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Bio-Hazard",
+      "release": "2007-08-20",
+      "jumps_number": "39"
+    },
+    {
+      "file": "ut4_splash_b3",
+      "mapname": "Splash",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "Mikeu",
+      "release": "2012-10-17",
+      "jumps_number": "24+2"
+    },
+    {
+      "file": "ut4_spryjumps_test",
+      "mapname": "Spry Jumps",
+      "type": "normal",
+      "level": 35.0,
+      "mapper": "",
+      "release": "2011-04-14",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_staticfield_b1a",
+      "mapname": "Static Field",
+      "type": "normal",
+      
+      "mapper": "Levant",
+      "release": "2013-02-28",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_staticfieldhell_b1a",
+      "mapname": "Static Field Hell",
+      "type": "normal",
+      
+      "mapper": "Levant",
+      "release": "2013-03-16",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_strafejumps_b2",
+      "mapname": "Strafe Jumps",
+      "type": "normal",
+      "level": 5.0,
+      "mapper": "Siim",
+      "release": "2009-01-15",
+      "jumps_number": "4"
+    },
+    {
+      "file": "ut4_swine_b1",
+      "mapname": "Swine",
+      "type": "normal",
+      "level": 63.0,
+      "mapper": "Ahts",
+      "release": "2012-01-12",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_synjumps_b1v",
+      "mapname": "Syn Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Synister",
+      "release": "2009-07-16",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_synchronicity_bio",
+      "mapname": "Synchronicity Bio",
+      "type": "normal",
+      "level": 65.0,
+      "mapper": "Bio-Hazard",
+      "release": "2007-09-08",
+      "jumps_number": "25"
+    },
+    {
+      "file": "ut4_synchronicityv2_bio",
+      "mapname": "Synchronicity Bio V2",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Bio-Hazard",
+      "release": "2007-09-28",
+      "jumps_number": "26"
+    },
+    {
+      "file": "ut4_syncope_beta2",
+      "mapname": "Syncope",
+      "type": "normal",
+      "level": 70,
+      "mapper": "joob3r_noel, aka Joober",
+      "release": "2011-01-09",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_tagazok_jumps_a3",
+      "mapname": "Tagazok Jumps",
+      "type": "normal",
+      "level": 25.0,
+      "mapper": "Xh0r0",
+      "release": "2013-04-05",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_tatmt_a1",
+      "mapname": "Tatmt",
+      "type": "normal",
+      
+      "mapper": "TrInIdAd and ToBaGo, updated by Noxtty",
+      "release": "2014-03-13",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_tdkjumps_v2",
+      "mapname": "TDK Jumps",
+      "type": "normal",
+      "level": 45.0,
+      "mapper": "Jo3",
+      "release": "2013-02-15",
+      "jumps_number": "25"
+    },
+    {
+      "file": "ut4_teamjumps_a1",
+      "mapname": "Team Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "joob3r_noel, aka Joober",
+      "release": "2009-04-03",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_terrorurbanojumps_v4",
+      "mapname": "Terror Urbano Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "Samm",
+      "release": "2010-03-29",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut42_th3k1ll3r_jumps_b2",
+      "mapname": "Th3K1ll3r Jumps",
+      "type": "normal",
+      "level": 100.0,
+      "mapper": "Th3K1ll3r",
+      "release": "2016-07-27",
+      "jumps_number": "1, 12, 12, 16, 4 (+3) (5 ways)"
+    },
+    {
+      "file": "ut4_thelabs_b3",
+      "mapname": "The Labs",
+      "type": "normal",
+      "level": 63.0,
+      "mapper": "Khaotik_Lord, Lucifer, SubJunk",
+      "release": "2009-09-16",
+      "jumps_number": "26"
+    },
+    {
+      "file": "ut42_thorium",
+      "mapname": "Thorium",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Sensati0n",
+      "release": "2015-05-05",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_Tinjumps",
+      "mapname": "Tin Jumps",
+      "type": "normal",
+      "level": 20.0,
+      "mapper": "alonurbanterror, aka alon, aka Tinfm",
+      "release": "2011-12-21",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut42_tirisfal_a1",
+      "mapname": "Tirisfal",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Flirodia",
+      "release": "2015-01-02",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut4_titan_a2",
+      "mapname": "Titan",
+      "type": "normal",
+      "level": 35,
+      "mapper": "Lizart",
+      "release": "2010-08-27",
+      "jumps_number": "10+10 (2 ways)"
+    },
+    {
+      "file": "ut4_Titanicjumps_b1",
+      "mapname": "Titanic Jumps",
+      "type": "normal",
+      "level": 45.0,
+      "mapper": "KroniK",
+      "release": "2012-02-29",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_TitanicjumpsHD_b1",
+      "mapname": "Titanic Jumps (HD)",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "KroniK",
+      "release": "2012-02-29",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut43_toxicbase_b2",
+      "mapname": "Toxicbase",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "stupz",
+      "release": "2018-07-02",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut4_tracia_b1",
+      "mapname": "Tracia",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "V!0",
+      "release": "2017-11-20",
+      "jumps_number": "20 (+2)"
+    },
+    {
+      "file": "ut_training",
+      "mapname": "Training",
+      "type": "normal",
+      
+      "mapper": "Crystaline",
+      "release": "2003-11-22",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_transilvania",
+      "mapname": "Transilvania",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "V!0",
+      "release": "2014-02-07",
+      "jumps_number": "30+1"
+    },
+    {
+      "file": "ut_trickmap",
+      "mapname": "Trick Map (Old)",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "Deqth",
+      "release": "2002-07-12",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_trickmap2_b7",
+      "mapname": "Trick Map 2",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "Deqth",
+      "release": "2010-07-04",
+      "jumps_number": "21"
+    },
+    {
+      "file": "ut4_trickyjumps_b2",
+      "mapname": "Tricky Jumps",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "TrIcKy",
+      "release": "2009-10-04",
+      "jumps_number": "21"
+    },
+    {
+      "file": "ut43_trixxie_b1",
+      "mapname": "Trixxie",
+      "type": "normal",
+      "level": 80,
+      "mapper": "Boromir",
+      "release": "2019-04-03",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_uberjumps_beta3",
+      "mapname": "Uber Jumps",
+      "type": "normal",
+      "level": 20,
+      "mapper": "Keres",
+      "release": "2007-08-04",
+      "jumps_number": "35"
+    },
+    {
+      "file": "ut4_UllyJump_v3",
+      "mapname": "Ully Jump",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "Le0w'S",
+      "release": "2011-07-27",
+      "jumps_number": "24"
+    },
+    {
+      "file": "ut4_undergroundjumps_v3",
+      "mapname": "Underground Jumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "FXG",
+      "release": "2013-11-13",
+      "jumps_number": "52"
+    },
+    {
+      "file": "ut43_unicorn_beta3",
+      "mapname": "Unicorn",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Hugo",
+      "release": "2018-05-02",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut42_unimpossible_a2",
+      "mapname": "Unimpossible",
+      "type": "normal",
+      "level": 95.0,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2016-08-15",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_unity_jumps_b4",
+      "mapname": "Unity Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "peacecat, aka jumpsrule",
+      "release": "2012-03-21",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut42_upsylon",
+      "mapname": "UpsYlon",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "DarkeN, Gets",
+      "release": "2015-04-08",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_uranus_beta1a",
+      "mapname": "Uranus",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Levant",
+      "release": "2013-01-16",
+      "jumps_number": "22"
+    },
+    {
+      "file": "ut4_urt-portjumps_final",
+      "mapname": "UrT Port Jumps",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "StolleJay",
+      "release": "2013-01-19",
+      "jumps_number": "18+13 (2 ways)"
+    },
+    {
+      "file": "ut4_urtrace1a",
+      "mapname": "Urt Race",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "Kl4nk",
+      "release": "2012-11-23",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_urtspeedway",
+      "mapname": "Urt Speed Way",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "Kl4nk",
+      "release": "2012-11-17",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_uselessjumps_b1-6",
+      "mapname": "Useless Jumps",
+      "type": "normal",
+      "level": 45.0,
+      "mapper": "Syn",
+      "release": "2009-04-09",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut4_vacuum_beta1a",
+      "mapname": "Vacuum",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "DJ_De1337eD, fantm",
+      "release": "2010-03-08",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut42_valterjumps_b2",
+      "mapname": "Valter Jumps",
+      "type": "normal",
+      "level": 95.0,
+      "mapper": "valter)))",
+      "release": "2015-11-05",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ujfm2k18_venus",
+      "mapname": "venus",
+      "type": "normal",
+      "level": 96.0,
+      "mapper": "stupz",
+      "release": "2018-07-28",
+      "jumps_number": "7"
+    },
+    {
+      "file": "ut4_vertigo",
+      "mapname": "Vertigo",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Mr Slicey",
+      "release": "2007-12-11",
+      "jumps_number": "32"
+    },
+    {
+      "file": "ut4_volcanic_b2a",
+      "mapname": "Volcanic Jumps",
+      "type": "normal",
+      "level": 68.0,
+      "mapper": "ie7",
+      "release": "2013-12-30",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut4_wjump",
+      "mapname": "W Jump",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "Warrior",
+      "release": "2010-08-30",
+      "jumps_number": "23"
+    },
+    {
+      "file": "ut4_walljumps",
+      "mapname": "Wall Jumps",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "DragonSlayer, updated by AnnId!ot",
+      "release": "2007-04-21",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut_walljumps",
+      "mapname": "Wall Jumps (Old)",
+      "type": "normal",
+      "level": 1E-12,
+      "mapper": "Dragoonslayer, Mapacker",
+      "release": "2004-05-27",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_walljumps_ctf_beta1",
+      "mapname": "Wall Jumps CTF",
+      "type": "normal",
+      "level": 10.0,
+      "mapper": "",
+      "release": "2007-08-12",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_walljumps_pro",
+      "mapname": "Wall Jumps Pro",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Much",
+      "release": "2007-08-19",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_walljumps_pro_hell",
+      "mapname": "Wall Jumps Pro Hell",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "raMPage",
+      "release": "2010-04-19",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut42_walljumps_real_deal_b1",
+      "mapname": "Wall Jumps Real Deal",
+      "type": "normal",
+      "level": 95.0,
+      "mapper": "Isaac",
+      "release": "2014-07-13",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_walljumps_strong",
+      "mapname": "Wall Jumps Strong",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "MR_BEAN",
+      "release": "2015-01-27",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_walljumps_ub3r_pr0_b1",
+      "mapname": "Wall Jumps Uber Pro",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "Samchun",
+      "release": "2013-01-26",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_UJFM-wallrunner",
+      "mapname": "Wall Runner",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "landouille",
+      "release": "2011-02-21",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_wantedjump",
+      "mapname": "Wanted Jump",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "KillEMOall",
+      "release": "2009-09-12",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut42_waaat_a1",
+      "mapname": "WAT?!",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Quark**",
+      "release": "2015-05-02",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_waterlemon_a1",
+      "mapname": "Waterlemon",
+      "type": "normal",
+      "level": 75.0,
+      "mapper": "Boromir",
+      "release": "2018-09-28",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_UJFM-winter_jump",
+      "mapname": "Winter Jump",
+      "type": "normal",
+      "level": 40.0,
+      "mapper": "Zurg",
+      "release": "2011-02-20",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_wootjumps_v4",
+      "mapname": "Woot Jumps",
+      "type": "normal",
+      "level": 33.0,
+      "mapper": "Mission",
+      "release": "2009-09-19",
+      "jumps_number": "23"
+    },
+    {
+      "file": "ut4_xjumps",
+      "mapname": "X Jumps",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "xSm3agol",
+      "release": "2009-04-16",
+      "jumps_number": "14"
+    },
+    {
+      "file": "ut4_xanjumps_prealpha",
+      "mapname": "Xan Jumps",
+      "type": "normal",
+      "level": 80.0,
+      "mapper": "xandaxs",
+      "release": "2011-10-23",
+      "jumps_number": "3+2"
+    },
+    {
+      "file": "ut42_xantic_b3a",
+      "mapname": "Xantic",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "Hugo",
+      "release": "2015-01-27",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_xtcjumps_beta2",
+      "mapname": "XTC Jumps",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Flinn, updated by joob3r_noel, aka Joober",
+      "release": "2009-05-09",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut4_yjumps_a1",
+      "mapname": "Y Jumps",
+      "type": "normal",
+      "level": 35.0,
+      "mapper": "N00b|Yennifer",
+      "release": "2010-02-28",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_yamakazi",
+      "mapname": "Yamakazi",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "Kl4nk",
+      "release": "2010-01-16",
+      "jumps_number": "18 (+Big start)"
+    },
+    {
+      "file": "ut4_UJFM-yellowsnow",
+      "mapname": "Yellow Snow",
+      "type": "normal",
+      "level": 20.0,
+      "mapper": "Pretsell",
+      "release": "2011-02-20",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_yucatec_b1",
+      "mapname": "Yucatec",
+      "type": "normal",
+      "level": 87.0,
+      "mapper": "Kib",
+      "release": "2018-04-28",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut4_zoggrace",
+      "mapname": "Zogg Race",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "Kl4nk",
+      "release": "2012-12-20",
+      "jumps_number": "3"
+    },
+    {
+      "file": "ut4_zroux_a1",
+      "mapname": "Zroux",
+      "type": "normal",
+      "level": 90.0,
+      "mapper": "Samchun",
+      "release": "2013-02-03",
+      "jumps_number": "9 (2 ways)"
+    },
+    {
+      "file": "ut4_zZz_a2",
+      "mapname": "Zzz",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "LiNeSsA",
+      "release": "2012-07-02",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_qbjumps_beta1",
+      "mapname": "",
+      "type": "normal",
+      "level": 1.0,
+      "mapper": "lagtronics",
+      "release": "2020-03-01",
+      "jumps_number": "-3"
+    },
+    {
+      "file": "ut42_hugoicy_b9",
+      "mapname": "Hugo Icy",
+      "type": "icy",
+      "level": 85.0,
+      "mapper": "Hugo",
+      "release": "",
+      "jumps_number": "7"
+    },
+    {
+      "file": "ut4_community_map_v2",
+      "mapname": "Community Map",
+      "type": "Normal",
+      "level": 95.0,
+      "mapper": "Boromir + Many others",
+      "release": "2019-08-16",
+      "jumps_number": "31"
+    },
+    {
+      "file": "ut4_pornstar-eagerbeaver",
+      "mapname": "Eager-beaver",
+      "type": "run",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_demonic",
+      "mapname": "Demonic",
+      "type": "Normal",
+      "level": 80.0,
+      "mapper": "",
+      "release": "",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut43_infernoicyjumps_b1",
+      "mapname": "Inferno Icy Jumps",
+      "type": "Icy",
+      "level": 70,
+      "mapper": "Misiux",
+      "release": "",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut43_infernoicyjumps_b1a",
+      "mapname": "Inferno Icy Jumps",
+      "type": "Icy",
+      "level": 75.0,
+      "mapper": "MisiUx",
+      "release": "2019-02-27",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut43_unimpossible_v1",
+      "mapname": "Unimpossible",
+      "type": "normal",
+      "level": 92.0,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2020-02-01",
+      "jumps_number": "20 + 1"
+    },
+    {
+      "file": "ut43_unimpossible_v3",
+      "mapname": "Unimpossible",
+      "type": "normal",
+      "level": 92.0,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2020-12-22",
+      "jumps_number": "20 + 1"
+    },
+    {
+      "file": "ut4_spacejumps_light",
+      "mapname": "",
+      "type": "",
+      "level": 15.0,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut42_bubble_b2",
+      "mapname": "Bubble",
+      "type": "Normal",
+      "level": 65.0,
+      "mapper": "Hugo",
+      "release": "",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut4_darkcity",
+      "mapname": "darkcity",
+      "type": "normal",
+      "level": 55.0,
+      "mapper": "lejo",
+      "release": "",
+      "jumps_number": "19"
+    },
+    {
+      "file": "ut43_babajumps_b1",
+      "mapname": "Babajumps",
+      "type": "Normal",
+      "level": 69.0,
+      "mapper": "Baba",
+      "release": "",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut43_boroicy_v1",
+      "mapname": "",
+      "type": "",
+      "level": 75.0,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_asian_a1",
+      "mapname": "Asian",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "mikeu",
+      "release": "2020-04-25",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut43_asian_a2",
+      "mapname": "Asian",
+      "type": "Normal",
+      "level": 80.0,
+      "mapper": "Mikeu, Bud0kai, Levant",
+      "release": "2020",
+      "jumps_number": "16 + 2"
+    },
+    {
+      "file": "ut43_boroicy_v2",
+      "mapname": "",
+      "type": "",
+      "level": 0.5,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_lacriptajumps_a5",
+      "mapname": "",
+      "type": "",
+      "level": 5.0,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_icy_test18",
+      "mapname": "",
+      "type": "",
+      "level": 30.0,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_unnamed_icy_a1",
+      "mapname": "",
+      "type": "Icy",
+      "level": 65.0,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_nonsense_v4",
+      "mapname": "nonsense",
+      "type": "Normal",
+      "level": 91.75,
+      "mapper": "boro",
+      "release": "May 11, 2020",
+      "jumps_number": "40"
+    },
+    {
+      "file": "ut4_superjumps",
+      "mapname": "",
+      "type": "",
+      "level": 95.0,
+      "mapper": "boro",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_mario1",
+      "mapname": "mario1",
+      "type": "ctf",
+      
+      "mapper": "nkoi",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_mario_opposing_castles",
+      "mapname": "mario_opposing castles",
+      "type": "ctf",
+      
+      "mapper": "",
+      "release": "??",
+      "jumps_number": ""
+    },
+    {
+      "file": "1vs1-lobby",
+      "mapname": "1vs1-lobby",
+      "type": "1v1",
+      
+      "mapper": "rooster",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "6++",
+      "mapname": "6++",
+      "type": "q3",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "13stone_mod44",
+      "mapname": "13stone_mod44",
+      "type": "1v1",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "19mai",
+      "mapname": "19mai",
+      "type": "q3",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "afunjumps_b1",
+      "mapname": "",
+      "type": "",
+      "level": 27.5,
+      "mapper": "",
+      "release": "",
+      "jumps_number": "8"
+    },
+    {
+      "file": "apple_deathrun_rc",
+      "mapname": "Apple_Deathrun_rc",
+      "type": "deathrun",
+      
+      "mapper": "kas",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "apple_freefall",
+      "mapname": "Apple_FreeFall",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "apple_he_square",
+      "mapname": "Apple_HE_Square",
+      "type": "ctf, shit",
+      
+      "mapper": "apple team",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "bal3dm2",
+      "mapname": "Bal3dm2",
+      "type": "q3",
+      
+      "mapper": "benoit bal sordeur",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "bardok-cpma",
+      "mapname": "",
+      "type": "cpm",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_ohshit_a1",
+      "mapname": "",
+      "type": "ctf",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_bingearena_a6",
+      "mapname": "",
+      "type": "ctf, wtf",
+      
+      "mapper": "KittyWumpus",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "battle",
+      "mapname": "battle",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "bigjump",
+      "mapname": "bigjump",
+      "type": "",
+      "level": 28.75,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "blastjumps-one_trash",
+      "mapname": "",
+      "type": "",
+      "level": 100.0,
+      "mapper": "blastaw",
+      "release": "",
+      "jumps_number": "25"
+    },
+    {
+      "file": "trigger_push",
+      "mapname": "trigger_push",
+      "type": "",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "benny_hill",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "buryscasino",
+      "mapname": "buryscasino",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "chiefmap",
+      "mapname": "chiefmap",
+      "type": "shit",
+      
+      "mapper": "killchief",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cube01",
+      "mapname": "cube01",
+      "type": "ctf",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cube02",
+      "mapname": "cube02",
+      "type": "ctf",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cube03",
+      "mapname": "cube03",
+      "type": "ctf",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cube04",
+      "mapname": "",
+      "type": "ctf",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cube05",
+      "mapname": "",
+      "type": "ctf",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cube06",
+      "mapname": "",
+      "type": "ctf",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cube07",
+      "mapname": "",
+      "type": "ctf",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cube08",
+      "mapname": "",
+      "type": "ctf",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cube11",
+      "mapname": "cube11",
+      "type": "ts",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cubearena",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cubeassaultbeta",
+      "mapname": "",
+      "type": "ts",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cubeassaultbeta2",
+      "mapname": "",
+      "type": "ts",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cubeassaultbeta3",
+      "mapname": "",
+      "type": "ts",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cubefun03",
+      "mapname": "",
+      "type": "jump, wtf",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cubefun04",
+      "mapname": "cubefun04",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "cubefun05",
+      "mapname": "cubefun05",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "dangercity",
+      "mapname": "Dangercity",
+      "type": "ts",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "dangercity_f1",
+      "mapname": "dangercity_f1",
+      "type": "ts",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "darkcity",
+      "mapname": "darkcity",
+      "type": "jump",
+      "level": 55.0,
+      "mapper": "alejo",
+      "release": "",
+      "jumps_number": "20"
+    },
+    {
+      "file": "dragonbriar",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "efarea51",
+      "mapname": "efarea_51",
+      "type": "ts",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "evilcage",
+      "mapname": "evilcage",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "facer2d",
+      "mapname": "Facer2d",
+      "type": "ctf",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "first_test",
+      "mapname": "first_test",
+      "type": "shit",
+      
+      "mapper": "!TopFox",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "fogly-jumps",
+      "mapname": "Fogly-Jumps",
+      "type": "jump",
+      "level": 8.825,
+      "mapper": "fogly",
+      "release": "",
+      "jumps_number": "8"
+    },
+    {
+      "file": "half-rucab",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "handsofgod",
+      "mapname": "handsofgod",
+      "type": "1v1",
+      
+      "mapper": "pingu",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "heretic",
+      "mapname": "",
+      "type": "ts",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "premieresalle6",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_doodle-jump",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_ujfm-frenchies_jumps",
+      "mapname": "frenchies jump",
+      "type": "",
+      "level": 2.363,
+      "mapper": "ferrari",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut_escher",
+      "mapname": "Escher",
+      "type": "noteable",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut_fahuaran",
+      "mapname": "",
+      "type": "noteable",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut_crowded",
+      "mapname": "",
+      "type": "best",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut_cartix",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut_mapache",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "wtf_nada",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "nazicourtyard",
+      "mapname": "",
+      "type": "noteable",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "mavbox",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "kirei",
+      "mapname": "kirei",
+      "type": "nice",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "forestfrag_urt",
+      "mapname": "forestfrag",
+      "type": "noteable",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_rnr_a6_preview2",
+      "mapname": "",
+      "type": "noteable",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_crossdressingroom_a9",
+      "mapname": "crossdressingroom",
+      "type": "",
+      "level": 10.0,
+      "mapper": "gayfaggot69",
+      "release": "",
+      "jumps_number": "3"
+    },
+    {
+      "file": "jrmap_dev1",
+      "mapname": "",
+      "type": "",
+      "level": 69.0,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_crossdressingroom_a11",
+      "mapname": "Cross Dressingroom",
+      "type": "",
+      "level": 75,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_icykarnival_b1y",
+      "mapname": "icykarnival",
+      "type": "icy",
+      "level": 40.0,
+      "mapper": "jackass & archimedes (bff)",
+      "release": "",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut4_ujfm-wallrunner",
+      "mapname": "",
+      "type": "icy",
+      "level": 40.0,
+      "mapper": "",
+      "release": "",
+      "jumps_number": "4"
+    },
+    {
+      "file": "ut43_icecoldicy_pro_b1",
+      "mapname": "",
+      "type": "icy",
+      "level": 100.0,
+      "mapper": "StupZ",
+      "release": "2020/08/12",
+      "jumps_number": "13 + 3 leets"
+    },
+    {
+      "file": "almost_icyjumps_a1",
+      "mapname": "",
+      "type": "shit",
+      "level": -10.0,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_titanicjumpshd_b1",
+      "mapname": "",
+      "type": "",
+      
+      "mapper": "kronik",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_roxeajump_beta",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_luminea_b3",
+      "mapname": "luminea",
+      "type": "normal",
+      "level": 85.0,
+      "mapper": "Hugo",
+      "release": "",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_gentlemanjump_b1",
+      "mapname": "",
+      "type": "",
+      "mapper": "demon666",
+      "release": "",
+      "jumps_number": "20 (10 easy + 10 normal)"
+    },
+    {
+      "file": "ut4_atrophy_v2",
+      "mapname": "atrophy",
+      "type": "",
+      
+      "mapper": "ie7",
+      "release": "2014-06-26",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_baseentrenamiento",
+      "mapname": "",
+      "type": "shit",
+      "level": 13.63,
+      "mapper": "PorNoEstar",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_black_ap1",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut-jard1",
+      "mapname": "",
+      "type": "frag",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_aerie_a3",
+      "mapname": "",
+      "type": "frag",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_aim_tp_v2",
+      "mapname": "",
+      "type": "frag",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_firstmap",
+      "mapname": "",
+      "type": "jump",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_armap",
+      "mapname": "",
+      "type": "p jump",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_formad_b4",
+      "mapname": "",
+      "type": "frag",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_bilbo_rough",
+      "mapname": "",
+      "type": "frag",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_chiefoffice",
+      "mapname": "",
+      "type": "good",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_northpole_alpha15",
+      "mapname": "",
+      "type": "frag",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "j4na",
+      "mapname": "",
+      "type": "jump",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_okay",
+      "mapname": "",
+      "type": "frag",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_outpost",
+      "mapname": "",
+      "type": "frag",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ikzdm1",
+      "mapname": "",
+      "type": "frag",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "jp",
+      "mapname": "",
+      "type": "jump",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_perramses",
+      "mapname": "",
+      "type": "frag",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "joe_beta",
+      "mapname": "",
+      "type": "jump",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_outer_heaven",
+      "mapname": "outer_heaven",
+      "type": "normal",
+      "level": 65,
+      "mapper": "Boromir",
+      "release": "2020-09-11",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_elusive_a7",
+      "mapname": "Elusive",
+      "type": "icy",
+      "level": 80.0,
+      "mapper": "phoe",
+      "release": "20/10/2020",
+      "jumps_number": "20"
+    },
+    {
+      "file": "ut43_elusive_b1",
+      "mapname": "Elusive",
+      "type": "icy",
+      "level": 80.0,
+      "mapper": "phoe",
+      "release": "2021-01-12",
+      "jumps_number": "20"
+    },
+    {
+      "file": "ut43_elusive_b7",
+      "mapname": "Elusive",
+      "type": "icy",
+      "level": 80.0,
+      "mapper": "phoe",
+      "release": "2021-01-14",
+      "jumps_number": "21"
+    },
+    {
+      "file": "ut43_elusive_b8",
+      "mapname": "Elusive",
+      "type": "icy",
+      "level": 80.0,
+      "mapper": "phoe",
+      "release": "2021-01-14",
+      "jumps_number": "21"
+    },
+    {
+      "file": "ut43_elusive_b9",
+      "mapname": "Elusive",
+      "type": "icy",
+      "level": 80.0,
+      "mapper": "phoe",
+      "release": "2021-01-14",
+      "jumps_number": "21"
+    },
+    {
+      "file": "ut43_elusive_b10",
+      "mapname": "Elusive",
+      "type": "icy",
+      "level": 80.0,
+      "mapper": "phoe",
+      "release": "2021-01-22",
+      "jumps_number": "21"
+    },
+    {
+      "file": "ut43_icycavern_b1a",
+      "mapname": "Icy Cavern",
+      "type": "icy",
+      "level": 95.0,
+      "mapper": "MisiUx and Leighrex",
+      "release": "24/10/2020",
+      "jumps_number": "32"
+    },
+    {
+      "file": "ut43_icycavern_b2",
+      "mapname": "Icy Cavern",
+      "type": "icy",
+      "level": 80,
+      "mapper": "MisiUx and Leighrex",
+      "release": "2021-01-28",
+      "jumps_number": "32"
+    },
+    {
+      "file": "ut4_estonianjumps",
+      "mapname": "Estonianjumps",
+      "type": "normal",
+      "level": 50.0,
+      "mapper": "EE-01-Vints",
+      "release": "29.10.2020",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut4_rhapsodicjumpsc1",
+      "mapname": "",
+      "type": "",
+      "level": 60.0,
+      "mapper": "Vivaldi",
+      "release": "",
+      "jumps_number": "22"
+    },
+    {
+      "file": "ut4_moenia",
+      "mapname": "Moenia",
+      "type": "normal",
+      "level": 60.0,
+      "mapper": "ulbens",
+      "release": "2020/11/20",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut4_calista_b1",
+      "mapname": "Calista",
+      "type": "normal",
+      "level": 70.0,
+      "mapper": "BaBa",
+      "release": "2020-11-24",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut43_aedis",
+      "mapname": "Aedis",
+      "type": "normal",
+      "level": 70,
+      "mapper": "ulbens",
+      "release": "2020/12/14",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut43_bubble_b4",
+      "mapname": "Bubble",
+      "type": "Normal",
+      "level": 60,
+      "mapper": "Hugo",
+      "release": "2021/01/01",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ladder_insanity",
+      "mapname": "ladder_insanity",
+      "type": "",
+      "level": 100.0,
+      "mapper": "c0ffee",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_icyfantasy1b",
+      "mapname": "",
+      "type": "",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_icyfantasy1a",
+      "mapname": "Icy Fantasy",
+      "type": "Icy",
+      "level": 70.0,
+      "mapper": "Rambetter",
+      "release": "16.01.2021",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_icyunleashed",
+      "mapname": "Icy Unleashed",
+      "type": "Icy",
+      "level": 65.0,
+      "mapper": "Sarah, Artek",
+      "release": "2021/01/19",
+      "jumps_number": "25"
+    },
+    {
+      "file": "ut43_icysequel_pro",
+      "mapname": "",
+      "type": "Icy",
+      "level": 70,
+      "mapper": "Kronik",
+      "release": "2021/01/21",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut43_quakbounce_a2",
+      "mapname": "quakbounce",
+      "type": "quak",
+      "level": 70.0,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2020-10-26",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut43_aquakjump_b1",
+      "mapname": "aquakjump",
+      "type": "quak",
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2021-01-25",
+      "jumps_number": "1"
+    },
+    {
+      "file": "icy_phenom",
+      "mapname": "",
+      "type": "icy",
+      "level": 65.0,
+      "mapper": "Bontar0",
+      "release": "2021-01-28",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut43_funt_remixed_a2",
+      "mapname": "FunT Remixed",
+      "type": "",
+      "level": 60,
+      "mapper": "phoe",
+      "release": "",
+      "jumps_number": "22+4"
+    },
+    {
+      "file": "ut4_wallride_b1",
+      "mapname": "Wallride",
+      "type": "icy",
+      "level": 96.69,
+      "mapper": "rabbit",
+      "release": "2020-02-12",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut43_icysequel1a",
+      "mapname": "Icy Sequel",
+      "type": "Icy",
+      "level": 50.0,
+      "mapper": "Rambetter",
+      "release": "2021/01/19",
+      "jumps_number": "28"
+    },
+    {
+      "file": "ut43_icywasteland_a1",
+      "mapname": "Icy Wasteland",
+      "type": "icy",
+      "level": 85.0,
+      "mapper": "MisiUx",
+      "release": "2021/02/20",
+      "jumps_number": "19+5"
+    },
+    {
+      "file": "ut43_icywasteland_b1",
+      "mapname": "Icy Wasteland",
+      "type": "icy",
+      "level": 70,
+      "mapper": "MisiUx",
+      "release": "2021/02/28",
+      "jumps_number": "19+5"
+    },
+    {
+      "file": "ut43_ikea_real_deal",
+      "mapname": "Ikea Real Deal",
+      "type": "Normal",
+      "level": 96.0,
+      "mapper": "ulbens",
+      "release": "2021/03/02",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut43_quakicy_a1",
+      "mapname": "quakicy",
+      "type": "icy",
+      "level": 80.0,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2021-03-06",
+      "jumps_number": "1+10+13+4+1"
+    },
+    {
+      "file": "ut43_quakicy_a2",
+      "mapname": "quakicy",
+      "type": "icy",
+      "level": 80.0,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2021-03-06",
+      "jumps_number": "1+10+13+4+1"
+    },
+    {
+      "file": "ut43_volcanic",
+      "mapname": "Volcanic",
+      "type": "Normal",
+      "level": 60,
+      "mapper": "ie7",
+      "release": "2013-12-30",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut4_moenia_v2",
+      "mapname": "Moenia",
+      "type": "Normal",
+      "level": 60,
+      "mapper": "ulbens",
+      "release": "2021/03/16",
+      "jumps_number": "15 + 3"
+    },
+    {
+      "file": "ut43_singledigitiq_jump",
+      "mapname": "singledigitiq",
+      "type": "icy",
+      "level": 80,
+      "mapper": "Shird",
+      "release": "19/04/2021",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_oberon_b1",
+      "mapname": "Oberon",
+      "type": "",
+      "level": 70,
+      "mapper": "ulbens",
+      "release": "2021/04/21",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut4_caverna_v1a",
+      "mapname": "Caverna",
+      "type": "Normal",
+      "level": 80,
+      "mapper": "V!0",
+      "release": "2014-03-24",
+      "jumps_number": "40 (20 + 10 + 10)"
+    },
+    {
+      "file": "ut43_bloodrunner_a1",
+      "mapname": "Bloodrunner",
+      "type": "normal",
+      "level": 85,
+      "mapper": "Meho",
+      "release": "2021-04-13",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut43_psychedelic",
+      "mapname": "Psychedelic Icy Jumps",
+      "type": "Icy",
+      "level": 70,
+      "mapper": "peacecat, Creative Angel",
+      "release": "2013/05/12",
+      "jumps_number": "17 + 1"
+    },
+    {
+      "file": "ut43_arcadiumpro_a1",
+      "mapname": "Arcadium Pro",
+      "type": "Icy",
+      "level": 1337,
+      "mapper": "phoe",
+      "release": "2021/05/31",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut43_holyjumps_b2a",
+      "mapname": "Holy Jumps",
+      "type": "Normal",
+      "level": 45,
+      "mapper": "Hugo",
+      "release": "2021/06/06",
+      "jumps_number": "24"
+    },
+    {
+      "file": "ut43_inferno_b7",
+      "mapname": "Inferno",
+      "type": "",
+      "level": 75,
+      "mapper": "meho",
+      "release": "",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut43_vertigo_b1",
+      "mapname": "Vertigo",
+      "type": "Normal",
+      "level": 60,
+      "mapper": "Mr Slicey",
+      "release": "2007/12/11",
+      "jumps_number": "32"
+    },
+    {
+      "file": "ut4_oberon_b2",
+      "mapname": "Oberon",
+      "type": "Normal",
+      "level": 70,
+      "mapper": "ulbens",
+      "release": "2021/06/15",
+      "jumps_number": "20 (10 + 10)"
+    },
+    {
+      "file": "ut43_vacuum_beta1a",
+      "mapname": "Vacuum",
+      "type": "Normal",
+      "mapper": "DJ_De1337eD",
+      "release": "2010/03/08",
+      "jumps_number": "9"
+    },
+    {
+      "file": "ut43_risitasjumps_b1a",
+      "mapname": "Risitas Jumps",
+      "type": "normal",
+      "level": 60,
+      "mapper": "Boromir",
+      "release": "2018/08/30",
+      "jumps_number": "7 + 1"
+    },
+    {
+      "file": "ut43_risitasjumps_b1b",
+      "mapname": "Risitas Jumps",
+      "type": "Normal",
+      "level": 65,
+      "mapper": "boromir",
+      "release": "2018/08/30",
+      "jumps_number": "7 + 1"
+    },
+    {
+      "file": "ut43_icyfuture_a1",
+      "mapname": "Icyfuture",
+      "type": "Icy",
+      "level": 90,
+      "mapper": "phoe and Shird",
+      "release": "2021/07/07",
+      "jumps_number": "15 (+1)"
+    },
+    {
+      "file": "ut43_simplicity",
+      "mapname": "Simplicity",
+      "type": "Normal",
+      "level": 60,
+      "mapper": "ie7",
+      "release": "2014/02/26",
+      "jumps_number": "12"
+    },
+    {
+      "file": "ut43_egyptlantis",
+      "mapname": "Egyptlantis",
+      "type": "Normal",
+      "level": 80,
+      "mapper": "Mikeu, Bud0kai, Ulbens",
+      "release": "2021/07/23",
+      "jumps_number": "16 + 1"
+    },
+    {
+      "file": "ut43_icycube",
+      "mapname": "Icy Cube",
+      "type": "Icy",
+      "level": 35,
+      "mapper": "Kronik",
+      "release": "",
+      "jumps_number": "11"
+    },
+    {
+      "file": "ut4_ujfm-niceice",
+      "mapname": "Nice Ice",
+      "type": "ujfm",
+      "level": 35,
+      "mapper": "postit",
+      "release": "2011-02-19",
+      "jumps_number": "4"
+    },
+    {
+      "file": "ut43_icyfuture_b1",
+      "mapname": "Icy Future",
+      "type": "Icy",
+      "level": 75,
+      "mapper": "phoe, Shird",
+      "release": "2021/08/01",
+      "jumps_number": "15 + 1"
+    },
+    {
+      "file": "ut43_icywanker_a1",
+      "mapname": "Icy Wanker",
+      "type": "Icy",
+      "level": 75,
+      "mapper": "ulbens",
+      "release": "2021/08/05",
+      "jumps_number": "36"
+    },
+    {
+      "file": "ut43_egyptlantis_a2",
+      "mapname": "Egyptlantis",
+      "type": "Normal",
+      "level": 80,
+      "mapper": "Mikeu, Bud0kai, Ulbens",
+      "release": "2021/08/09",
+      "jumps_number": "16 + 1"
+    },
+    {
+      "file": "ut43_equilibrium_b1",
+      "mapname": "Equilibrium",
+      "type": "normal",
+      "level": 60,
+      "mapper": "Richardyourgod",
+      "release": "2010/08/01",
+      "jumps_number": "18"
+    },
+    {
+      "file": "ut43_flaw_a2",
+      "mapname": "Flaw",
+      "type": "quak",
+      "mapper": "quak",
+      "release": "2021/08/14",
+      "jumps_number": "44 (15 + 18 + 7 + 4)"
+    },
+    {
+      "file": "ut43_flaw_a3",
+      "mapname": "Flaw",
+      "type": "quak",
+      "level": 75,
+      "mapper": "quak",
+      "release": "2021/08/15",
+      "jumps_number": "44 (15 + 18 + 7 + 4)"
+    },
+    {
+      "file": "ut43_qudebu0401",
+      "mapname": "QuDeBu",
+      "type": "Race",
+      "mapper": "quak",
+      "release": "01/04/2021",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut43_dontgetwet_b1",
+      "mapname": "",
+      "type": "Icy plats",
+      "level": 65,
+      "mapper": "Misato",
+      "release": "2008",
+      "jumps_number": "22"
+    },
+    {
+      "file": "ut43_uldebu",
+      "mapname": "UlDeBu",
+      "type": "Race",
+      "level": 1,
+      "mapper": "quak",
+      "release": "2021/08/26",
+      "jumps_number": "5"
+    },
+    {
+      "file": "pornstar-sandnigga",
+      "mapname": "",
+      "type": "Shird",
+      "mapper": "Shird",
+      "release": "11/09/2001",
+      "jumps_number": "69"
+    },
+    {
+      "file": "ut43_quakicy_b1",
+      "mapname": "quakicy",
+      "type": "icy",
+      "level": 80,
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2021-09-02",
+      "jumps_number": "1+10+13+4+1"
+    },
+    {
+      "file": "ut43_singledigitiq_jump_b1",
+      "mapname": "singledigitiq",
+      "type": "icy",
+      "level": 70,
+      "mapper": "Shird",
+      "release": "19/04/2021",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut43_quakicy_b1b",
+      "mapname": "quakicy",
+      "type": "icy",
+      "mapper": "quak (aka PsyDuck)",
+      "release": "2021-09-03",
+      "jumps_number": "1+10+13+4+1"
+    },
+    {
+      "file": "ut43_abyss",
+      "mapname": "Abyss",
+      "type": "Non-icy",
+      "level": 65,
+      "mapper": "Mikeu",
+      "release": "2011/07/26",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_flaw_b1",
+      "mapname": "Flaw",
+      "type": "quak",
+      "level": 75,
+      "mapper": "quak",
+      "release": "2021/09/08",
+      "jumps_number": "53 (15+24+9+4+1)"
+    },
+    {
+      "file": "ut43_arcadiumpro_b1",
+      "mapname": "",
+      "type": "",
+      "level": 100,
+      "mapper": "Phoe",
+      "release": "",
+      "jumps_number": "13"
+    },
+    {
+      "file": "ut43_psygoito_a1",
+      "mapname": "",
+      "type": "Normal",
+      "level": 70,
+      "mapper": "Psycho, Hugo",
+      "release": "",
+      "jumps_number": "16 (+2)"
+    },
+    {
+      "file": "ut43_psygoito_a2",
+      "mapname": "Psygoito",
+      "type": "Normal",
+      "level": 70,
+      "mapper": "Psycho, Hugo",
+      "release": "2021/09/14",
+      "jumps_number": "16 (+ 2)"
+    },
+    {
+      "file": "ut43_bjumps_b1",
+      "mapname": "B Jumps",
+      "type": "Normal",
+      "level": 20,
+      "mapper": "xSm3agol",
+      "release": "2009/11/18",
+      "jumps_number": "23"
+    },
+    {
+      "file": "ut_bug100",
+      "mapname": "bug100",
+      "type": "Race",
+      "level": 10,
+      "mapper": "bug",
+      "release": "2021/09/26",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_ulbrace01_b1",
+      "mapname": "Ulb Race I",
+      "type": "Race",
+      "level": 200,
+      "mapper": "ulbens",
+      "release": "2021/09/28",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut_montipas",
+      "mapname": "Mountain Pass",
+      "type": "Race",
+      "level": 10,
+      "mapper": "Nib (defrag)",
+      "release": "2021/09/30",
+      "jumps_number": "4"
+    },
+    {
+      "file": "ut43_splash",
+      "mapname": "",
+      "type": "",
+      "level": 65,
+      "mapper": "Mikeu",
+      "release": "",
+      "jumps_number": "24"
+    },
+    {
+      "file": "ut43_mhrace_a2",
+      "mapname": "Meho Race",
+      "type": "Race",
+      "level": 1,
+      "mapper": "meho",
+      "release": "2021/10/08",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_yunjumps",
+      "mapname": "Yun Jumps",
+      "type": "Normal",
+      "level": 70,
+      "mapper": "ulbens",
+      "release": "2021/10/09",
+      "jumps_number": "5"
+    },
+    {
+      "file": "ut_hgb-sters",
+      "mapname": "hgb-sters",
+      "type": "Race",
+      "level": 1,
+      "mapper": "halvorgb (defrag)",
+      "release": "2021/10/10",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut43_neonlegacy_a1",
+      "mapname": "Neon Legacy",
+      "type": "icy",
+      "level": 75,
+      "mapper": "phoe",
+      "release": "11/10/2021",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut4_ulbrace01_b2",
+      "mapname": "Ulbens Race 1",
+      "type": "",
+      "level": 30,
+      "mapper": "ulbens",
+      "release": "2021/09/29",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut_biotrix-glow",
+      "mapname": "vq3 hell",
+      "type": "Race",
+      "level": 30,
+      "mapper": "Biotrix (defrag)",
+      "release": "2021/10/13",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_defa_t1",
+      "mapname": "",
+      "type": "",
+      "level": 20,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_quakded_b1",
+      "mapname": "Quak Ded",
+      "type": "",
+      "level": 75,
+      "mapper": "quak",
+      "release": "",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut43_quakded_b2",
+      "mapname": "quak ded",
+      "type": "Normal",
+      "level": 70,
+      "mapper": "quak",
+      "release": "2021-10-19",
+      "jumps_number": "7+6+4+1+1"
+    },
+    {
+      "file": "ut43_quakded_b2b",
+      "mapname": "quak ded",
+      "type": "Normal",
+      "level": "70-80",
+      "mapper": "quak",
+      "release": "2021-10-21",
+      "jumps_number": "7+6+4+1+1"
+    },
+    {
+      "file": "ut4_ulbrace02_b1",
+      "mapname": "Ulbens Race 2",
+      "type": "race",
+      "level": 30,
+      "mapper": "ulbens",
+      "release": "2021/10/23",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut43_quakppytowers01_b1b",
+      "mapname": "quakppy towers 01",
+      "type": "puzzle",
+      
+      "mapper": "quak",
+      "release": "2021-10-25",
+      "jumps_number": "6"
+    },
+    {
+      "file": "ut4_gammajumps_a1",
+      "mapname": "Gamma Jumps",
+      "type": "Normal",
+      "level": 86,
+      "mapper": "shird, ulbens",
+      "release": "2021/10/29",
+      "jumps_number": "7 + 7 + 7"
+    },
+    {
+      "file": "ut43_projumps_b1",
+      "mapname": "",
+      "type": "",
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_black_b2",
+      "mapname": "Black",
+      "type": "Normal",
+      "mapper": "quak",
+      "release": "2021-11-05",
+      "jumps_number": "33+7, 17, 4, 1, 1"
+    },
+    {
+      "file": "ut4_flicks_b1",
+      "mapname": "Flicks",
+      "type": "Normal",
+      "level": "20-70",
+      "mapper": "Meho",
+      "release": "15/11/2021",
+      "jumps_number": "14"
+    },
+    {
+      "file": "ut4_twjump",
+      "mapname": "",
+      "type": "shit",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_bloodfog_b1",
+      "mapname": "Bloodfog",
+      "type": "Normal",
+      "level": 70,
+      "mapper": "meho",
+      "release": "2021/11/22",
+      "jumps_number": "8"
+    },
+    {
+      "file": "ut43_babylon_b1",
+      "mapname": "Babylon",
+      "type": "",
+      "level": 80,
+      "mapper": "BlindBlake",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_depression_b1",
+      "mapname": "Depression",
+      "type": "Normal",
+      "level": 71,
+      "mapper": "ulbens",
+      "release": "2021/11/24",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut4_depression_b1a",
+      "mapname": "Depression",
+      "type": "Normal",
+      "level": 75,
+      "mapper": "ulbens",
+      "release": "2021/11/24",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut43_quakshot01_black1",
+      "mapname": "quakshot01 - Black",
+      "type": "Race",
+      "mapper": "quak",
+      "release": "2021-12-01",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_inferno_b8",
+      "mapname": "Inferno",
+      "type": "Normal",
+      "level": 75,
+      "mapper": "meho",
+      "release": "2021/11/28",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut43_sliceyjumps",
+      "mapname": "Slicey Jumps",
+      "type": "fun",
+      "mapper": "Mr. Slicey",
+      "release": "paleolithic",
+      "jumps_number": "22"
+    },
+    {
+      "file": "ut4_bardok-egypt",
+      "mapname": "",
+      "type": "race",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut_bug44_slick",
+      "mapname": "CGaz Heaven",
+      "type": "gvn",
+      "level": 1,
+      "mapper": "bug",
+      "release": "2021/12/12",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut4_chronos_cpmrun5_fixed",
+      "mapname": "",
+      "type": "race",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_dinirun3_slick_fixed",
+      "mapname": "",
+      "type": "race",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut4_sewers_b1",
+      "mapname": "Sewers",
+      "type": "Normal",
+      "level": 75,
+      "mapper": "baba",
+      "release": "2021/12/16",
+      "jumps_number": "10 (+ 2)"
+    },
+    {
+      "file": "ut4_xmasjumps_b1",
+      "mapname": "XmaS Jumps",
+      "type": "Normal",
+      "level": 20,
+      "mapper": "ulbens",
+      "release": "2021/12/20",
+      "jumps_number": "14"
+    },
+    {
+      "file": "ut_ulb-short1",
+      "mapname": "short run yh",
+      "type": "race",
+      "level": 1,
+      "mapper": "ulbens",
+      "release": "2021/12/23",
+      "jumps_number": "1"
+    },
+    {
+      "file": "ut43_mhrace2_b1",
+      "mapname": "",
+      "type": "race",
+      
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_icywanker_a2",
+      "mapname": "Icy Wanker",
+      "type": "Icy",
+      "level": 75,
+      "mapper": "ulbens",
+      "release": "2021/12/27",
+      "jumps_number": "40"
+    },
+    {
+      "file": "ut43_bucovina_b1",
+      "mapname": "Bucovina",
+      "type": "Normal",
+      "level": 55,
+      "mapper": "V!0",
+      "release": "2016/01/15",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut43_serenity",
+      "mapname": "",
+      "type": "",
+      "level": 60,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_gravity",
+      "mapname": "",
+      "type": "",
+      "level": 70,
+      "mapper": "",
+      "release": "",
+      "jumps_number": ""
+    },
+    {
+      "file": "ut43_quakslide_a1",
+      "mapname": "quakslide",
+      "type": "quak",
+      
+      "mapper": "quak",
+      "release": "2022-01-25",
+      "jumps_number": "15+10+6+5"
+    },
+    {
+      "file": "ut4_avacyn_b1",
+      "mapname": "Avacyn",
+      "type": "Normal",
+      "level": 60,
+      "mapper": "ulbens",
+      "release": "2022/01/31",
+      "jumps_number": "28"
+    },
+    {
+      "file": "ut43_fhjumps",
+      "mapname": "FH Jumps",
+      "type": "Normal",
+      "level": 60,
+      "mapper": "Flirow, Hugo",
+      "release": "2022/02/03",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut4_quakbens_b1",
+      "mapname": "quakbens",
+      "type": "Normal",
+      "level": 75,
+      "mapper": "quak, ulbens",
+      "release": "2022/02/05",
+      "jumps_number": "5 + 5"
+    },
+    {
+      "file": "ut4_flicks_b2",
+      "mapname": "Flicks",
+      "type": "Normal",
+      "level": "1-99",
+      "mapper": "meho",
+      "release": "2022/02/05",
+      "jumps_number": "16"
+    },
+    {
+      "file": "ut43_quakslide_a1b",
+      "mapname": "quakslide",
+      "type": "Wallslide",
+      
+      "mapper": "quak",
+      "release": "06/02/2022",
+      "jumps_number": "5+15+10+6+6+5"
+    },
+    {
+      "file": "ut4_oberon_b3",
+      "mapname": "Oberon",
+      "type": "Normal",
+      "level": 70,
+      "mapper": "ulbens",
+      "release": "2022/02/08",
+      "jumps_number": "22"
+    },
+    {
+      "file": "ut4_oberon_slick_b1",
+      "mapname": "Oberon Slick X-D",
+      "type": "Slippery",
+      "level": 20,
+      "mapper": "ulbens",
+      "release": "2022/02/13",
+      "jumps_number": "22"
+    },
+    {
+      "file": "ut43_azurea_b1",
+      "mapname": "Azurea",
+      "type": "Normal",
+      "level": 70,
+      "mapper": "gsims, SettinG",
+      "release": "2012/09/14",
+      "jumps_number": "17"
+    },
+    {
+      "file": "ut43_prison",
+      "mapname": "Prison",
+      "type": "Normal",
+      "level": 55,
+      "mapper": "V!0",
+      "release": "2022/02/16",
+      "jumps_number": "22"
+    },
+    {
+      "file": "ut4_tears_b1",
+      "mapname": "Tears",
+      "type": "Normal",
+      "level": 75,
+      "mapper": "baba, ulbens",
+      "release": "2022/02/20",
+      "jumps_number": "10"
+    },
+    {
+      "file": "ut43_orange_a3",
+      "mapname": "Orange",
+      "type": "Normal",
+      "level": 75,
+      "mapper": "quak",
+      "release": "2022-02-23",
+      "jumps_number": "15"
+    },
+    {
+      "file": "ut43_orange_a4",
+      "mapname": "",
+      "type": "Normal",
+      
+      "mapper": "quak",
+      "release": "2022-02-24",
+      "jumps_number": "15"
+    }
+]

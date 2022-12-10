@@ -2716,7 +2716,7 @@ class LogParser(object):
                         map_already_exist = map_name not in map_list
                         if map_already_exist:
                             try:
-                                full_url = "http://urt.li/q3ut4/"+map_name+".pk3"
+                                full_url = CONFIG.get('server', 'download_url')+map_name+".pk3"
                                 print(full_url)
                                 self.game.rcon_say("^7Downloading map : ^3%s" % map)
                                 wget.download(full_url, out= CONFIG.get('server', 'download_folder'))

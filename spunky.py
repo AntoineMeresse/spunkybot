@@ -2717,8 +2717,7 @@ class LogParser(object):
                         if map_already_exist:
                             try:
                                 full_url = CONFIG.get('server', 'download_url')+map_name+".pk3"
-                                print(full_url)
-                                self.game.rcon_say("^7Downloading map : ^3%s" % map)
+                                self.game.rcon_say("^7Downloading map : ^3%s" % map_name)
                                 wget.download(full_url, out= CONFIG.get('server', 'download_folder'))
                                 map_list.append(map)
                                 self.game.rcon_say("^7Downloading map : ^3%s (Finished)" % map)
@@ -2785,7 +2784,9 @@ class LogParser(object):
                 self.game.rcon_saveJump(sar['player_num'], jumpName)
             
             elif sar['command'].startswith('!goto') and self.game.players[sar['player_num']].get_admin_role() >= COMMANDS['goto']['level']:
-                jumpName = line.split(sar['command'])[1].strip() 
+                jumpName = line.split(sar['command'])[1].strip()
+                if (jumpName != ""):
+                    self.game.rcon_forceteam(sar['player_num'], 'red')
                 self.game.rcon_LoadJump(sar['player_num'], jumpName)
 
 ## unknown command
